@@ -1,0 +1,503 @@
+[
+  {
+    "qid": "custom_001",
+    "difficulty": "easy",
+    "question": "Which university did the author of The Hobbit teach at?",
+    "gold_answer": "Oxford University",
+    "context": [
+      {"title": "J. R. R. Tolkien", "text": "J. R. R. Tolkien wrote The Hobbit and was a professor at Oxford University."},
+      {"title": "Oxford University", "text": "Oxford University is a collegiate research university in Oxford, England."}
+    ]
+  },
+  {
+    "qid": "custom_002",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Ada Lovelace was born?",
+    "gold_answer": "River Thames",
+    "context": [
+      {"title": "Ada Lovelace", "text": "Ada Lovelace was born in London, England."},
+      {"title": "London", "text": "London is crossed by the River Thames."}
+    ]
+  },
+  {
+    "qid": "custom_003",
+    "difficulty": "easy",
+    "question": "What instrument did the composer of The Four Seasons mainly play?",
+    "gold_answer": "violin",
+    "context": [
+      {"title": "The Four Seasons", "text": "The Four Seasons is a group of violin concertos by Antonio Vivaldi."},
+      {"title": "Antonio Vivaldi", "text": "Antonio Vivaldi was an Italian Baroque composer and virtuoso violinist."}
+    ]
+  },
+  {
+    "qid": "custom_004",
+    "difficulty": "medium",
+    "question": "Which ocean borders the country whose capital is Lima?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {"title": "Lima", "text": "Lima is the capital city of Peru."},
+      {"title": "Peru", "text": "Peru borders the Pacific Ocean."}
+    ]
+  },
+  {
+    "qid": "custom_005",
+    "difficulty": "easy",
+    "question": "What field did the scientist who proposed the three laws of motion study in addition to physics?",
+    "gold_answer": "mathematics",
+    "context": [
+      {"title": "Isaac Newton", "text": "Isaac Newton formulated the laws of motion and was a physicist and mathematician."},
+      {"title": "Laws of motion", "text": "The three laws of motion are attributed to Isaac Newton."}
+    ]
+  },
+  {
+    "qid": "custom_006",
+    "difficulty": "hard",
+    "question": "What sea borders the country where Petra is located?",
+    "gold_answer": "Dead Sea",
+    "context": [
+      {"title": "Petra", "text": "Petra is a historical city in Jordan."},
+      {"title": "Jordan", "text": "Jordan borders the Dead Sea to the west."}
+    ]
+  },
+  {
+    "qid": "custom_007",
+    "difficulty": "medium",
+    "question": "Which language family does the primary language of Brazil belong to?",
+    "gold_answer": "Romance",
+    "context": [
+      {"title": "Brazil", "text": "The official language of Brazil is Portuguese."},
+      {"title": "Portuguese language", "text": "Portuguese is a Romance language."}
+    ]
+  },
+  {
+    "qid": "custom_008",
+    "difficulty": "hard",
+    "question": "Which mountain range contains the highest mountain in the country whose capital is Kathmandu?",
+    "gold_answer": "Himalayas",
+    "context": [
+      {"title": "Kathmandu", "text": "Kathmandu is the capital city of Nepal."},
+      {"title": "Nepal", "text": "Mount Everest, the highest mountain in Nepal, is part of the Himalayas."}
+    ]
+  },
+  {
+    "qid": "custom_009",
+    "difficulty": "medium",
+    "question": "What is the capital of the country where the Eiffel Tower is located?",
+    "gold_answer": "Paris",
+    "context": [
+      {"title": "Eiffel Tower", "text": "The Eiffel Tower is located in France."},
+      {"title": "France", "text": "Paris is the capital city of France."}
+    ]
+  },
+  {
+    "qid": "custom_010",
+    "difficulty": "medium",
+    "question": "Which planet is named after the Roman god of war?",
+    "gold_answer": "Mars",
+    "context": [
+      {"title": "Roman god of war", "text": "Mars was the Roman god of war."},
+      {"title": "Mars", "text": "The planet Mars is named after the Roman god of war."}
+    ]
+  },
+  {
+    "qid": "custom_011",
+    "difficulty": "medium",
+    "question": "What continent contains the country where the city of Kyoto is located?",
+    "gold_answer": "Asia",
+    "context": [
+      {"title": "Kyoto", "text": "Kyoto is a city in Japan."},
+      {"title": "Japan", "text": "Japan is an island country in Asia."}
+    ]
+  },
+  {
+    "qid": "custom_012",
+    "difficulty": "medium",
+    "question": "What is the currency of the country whose capital is Berlin?",
+    "gold_answer": "euro",
+    "context": [
+      {"title": "Berlin", "text": "Berlin is the capital city of Germany."},
+      {"title": "Germany", "text": "Germany uses the euro as its currency."}
+    ]
+  },
+  {
+    "qid": "custom_013",
+    "difficulty": "medium",
+    "question": "Which sport is played by the team that plays home games at Camp Nou?",
+    "gold_answer": "football",
+    "context": [
+      {"title": "Camp Nou", "text": "Camp Nou is the home stadium of FC Barcelona."},
+      {"title": "FC Barcelona", "text": "FC Barcelona is a professional football club."}
+    ]
+  },
+  {
+    "qid": "custom_014",
+    "difficulty": "medium",
+    "question": "What metal is associated with the chemical symbol of the element used in old thermometers?",
+    "gold_answer": "mercury",
+    "context": [
+      {"title": "Old thermometers", "text": "Many old thermometers used the element with chemical symbol Hg."},
+      {"title": "Hg", "text": "Hg is the chemical symbol for mercury."}
+    ]
+  },
+  {
+    "qid": "custom_015",
+    "difficulty": "easy",
+    "question": "What country is home to the city where the Colosseum is located?",
+    "gold_answer": "Italy",
+    "context": [
+      {"title": "Colosseum", "text": "The Colosseum is located in Rome."},
+      {"title": "Rome", "text": "Rome is the capital city of Italy."}
+    ]
+  },
+  {
+    "qid": "custom_016",
+    "difficulty": "medium",
+    "question": "What language is primarily spoken in the country whose capital is Madrid?",
+    "gold_answer": "Spanish",
+    "context": [
+      {"title": "Madrid", "text": "Madrid is the capital city of Spain."},
+      {"title": "Spain", "text": "Spanish is the primary official language of Spain."}
+    ]
+  },
+  {
+    "qid": "custom_017",
+    "difficulty": "hard",
+    "question": "Which ocean surrounds the island country whose capital is Reykjavik?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {"title": "Reykjavik", "text": "Reykjavik is the capital city of Iceland."},
+      {"title": "Iceland", "text": "Iceland is an island country in the North Atlantic Ocean."}
+    ]
+  },
+  {
+    "qid": "custom_018",
+    "difficulty": "medium",
+    "question": "What animal group does the creature that produced silk in ancient China belong to?",
+    "gold_answer": "insects",
+    "context": [
+      {"title": "Silk", "text": "Ancient Chinese silk was produced from silkworm cocoons."},
+      {"title": "Silkworm", "text": "A silkworm is the larva of a moth, and moths are insects."}
+    ]
+  },
+  {
+    "qid": "custom_019",
+    "difficulty": "medium",
+    "question": "Which author created the detective who lived at 221B Baker Street?",
+    "gold_answer": "Arthur Conan Doyle",
+    "context": [
+      {"title": "221B Baker Street", "text": "221B Baker Street is the fictional address of Sherlock Holmes."},
+      {"title": "Sherlock Holmes", "text": "Sherlock Holmes was created by Arthur Conan Doyle."}
+    ]
+  },
+  {
+    "qid": "custom_020",
+    "difficulty": "medium",
+    "question": "What type of celestial object is the Sun at the center of the Solar System?",
+    "gold_answer": "star",
+    "context": [
+      {"title": "Solar System", "text": "The Sun is at the center of the Solar System."},
+      {"title": "Sun", "text": "The Sun is a star."}
+    ]
+  },
+  {
+    "qid": "custom_021",
+    "difficulty": "medium",
+    "question": "What is the capital of the country where the Great Wall is located?",
+    "gold_answer": "Beijing",
+    "context": [
+      {"title": "Great Wall", "text": "The Great Wall is located in China."},
+      {"title": "China", "text": "Beijing is the capital city of China."}
+    ]
+  },
+  {
+    "qid": "custom_022",
+    "difficulty": "medium",
+    "question": "Which river runs through the city that contains the Louvre Museum?",
+    "gold_answer": "Seine",
+    "context": [
+      {"title": "Louvre Museum", "text": "The Louvre Museum is located in Paris."},
+      {"title": "Paris", "text": "Paris is located on the Seine river."}
+    ]
+  },
+  {
+    "qid": "custom_023",
+    "difficulty": "medium",
+    "question": "What country contains the city that hosted the 2016 Summer Olympics?",
+    "gold_answer": "Brazil",
+    "context": [
+      {"title": "2016 Summer Olympics", "text": "The 2016 Summer Olympics were hosted by Rio de Janeiro."},
+      {"title": "Rio de Janeiro", "text": "Rio de Janeiro is a city in Brazil."}
+    ]
+  },
+  {
+    "qid": "custom_024",
+    "difficulty": "medium",
+    "question": "Which composer wrote the symphony that begins with the famous four-note motif?",
+    "gold_answer": "Ludwig van Beethoven",
+    "context": [
+      {"title": "Four-note motif", "text": "The famous short-short-short-long motif opens Symphony No. 5."},
+      {"title": "Symphony No. 5", "text": "Symphony No. 5 was composed by Ludwig van Beethoven."}
+    ]
+  },
+  {
+    "qid": "custom_025",
+    "difficulty": "easy",
+    "question": "What gas do plants mainly absorb for photosynthesis?",
+    "gold_answer": "carbon dioxide",
+    "context": [
+      {"title": "Photosynthesis", "text": "During photosynthesis, plants absorb carbon dioxide and release oxygen."},
+      {"title": "Carbon dioxide", "text": "Carbon dioxide is a gas in Earth's atmosphere."}
+    ]
+  },
+  {
+    "qid": "custom_026",
+    "difficulty": "medium",
+    "question": "What country is the birthplace of the artist who painted the Mona Lisa?",
+    "gold_answer": "Italy",
+    "context": [
+      {"title": "Mona Lisa", "text": "The Mona Lisa was painted by Leonardo da Vinci."},
+      {"title": "Leonardo da Vinci", "text": "Leonardo da Vinci was born in Italy."}
+    ]
+  },
+  {
+    "qid": "custom_027",
+    "difficulty": "medium",
+    "question": "Which continent contains the country whose capital is Cairo?",
+    "gold_answer": "Africa",
+    "context": [
+      {"title": "Cairo", "text": "Cairo is the capital city of Egypt."},
+      {"title": "Egypt", "text": "Egypt is located in Africa."}
+    ]
+  },
+  {
+    "qid": "custom_028",
+    "difficulty": "medium",
+    "question": "What is the largest planet in the system that includes Earth?",
+    "gold_answer": "Jupiter",
+    "context": [
+      {"title": "Earth", "text": "Earth is a planet in the Solar System."},
+      {"title": "Solar System planets", "text": "Jupiter is the largest planet in the Solar System."}
+    ]
+  },
+  {
+    "qid": "custom_029",
+    "difficulty": "medium",
+    "question": "Which language did the author of Don Quixote write in?",
+    "gold_answer": "Spanish",
+    "context": [
+      {"title": "Don Quixote", "text": "Don Quixote was written by Miguel de Cervantes."},
+      {"title": "Miguel de Cervantes", "text": "Miguel de Cervantes wrote in Spanish."}
+    ]
+  },
+  {
+    "qid": "custom_030",
+    "difficulty": "hard",
+    "question": "What mountain range contains the mountain that is the highest peak in Europe?",
+    "gold_answer": "Caucasus Mountains",
+    "context": [
+      {"title": "Highest peak in Europe", "text": "Mount Elbrus is commonly listed as the highest peak in Europe."},
+      {"title": "Mount Elbrus", "text": "Mount Elbrus is located in the Caucasus Mountains."}
+    ]
+  },
+  {
+    "qid": "custom_031",
+    "difficulty": "medium",
+    "question": "What is the capital of the country where Mount Fuji is located?",
+    "gold_answer": "Tokyo",
+    "context": [
+      {"title": "Mount Fuji", "text": "Mount Fuji is located in Japan."},
+      {"title": "Japan", "text": "Tokyo is the capital city of Japan."}
+    ]
+  },
+  {
+    "qid": "custom_032",
+    "difficulty": "medium",
+    "question": "What is the main language of the country whose capital is Lisbon?",
+    "gold_answer": "Portuguese",
+    "context": [
+      {"title": "Lisbon", "text": "Lisbon is the capital city of Portugal."},
+      {"title": "Portugal", "text": "Portuguese is the main official language of Portugal."}
+    ]
+  },
+  {
+    "qid": "custom_033",
+    "difficulty": "medium",
+    "question": "Which ocean borders the country whose capital is Ottawa?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {"title": "Ottawa", "text": "Ottawa is the capital city of Canada."},
+      {"title": "Canada", "text": "Canada borders the Atlantic Ocean, Pacific Ocean, and Arctic Ocean."}
+    ]
+  },
+  {
+    "qid": "custom_034",
+    "difficulty": "medium",
+    "question": "What is the currency of the country where the city of Vienna is located?",
+    "gold_answer": "euro",
+    "context": [
+      {"title": "Vienna", "text": "Vienna is the capital city of Austria."},
+      {"title": "Austria", "text": "Austria uses the euro as its currency."}
+    ]
+  },
+  {
+    "qid": "custom_035",
+    "difficulty": "medium",
+    "question": "Which scientist developed the theory related to relativity and won the 1921 Nobel Prize in Physics?",
+    "gold_answer": "Albert Einstein",
+    "context": [
+      {"title": "Relativity", "text": "The theory of relativity was developed by Albert Einstein."},
+      {"title": "1921 Nobel Prize in Physics", "text": "Albert Einstein received the 1921 Nobel Prize in Physics."}
+    ]
+  },
+  {
+    "qid": "custom_036",
+    "difficulty": "medium",
+    "question": "Which city is the capital of the country that contains the Taj Mahal?",
+    "gold_answer": "New Delhi",
+    "context": [
+      {"title": "Taj Mahal", "text": "The Taj Mahal is located in India."},
+      {"title": "India", "text": "New Delhi is the capital city of India."}
+    ]
+  },
+  {
+    "qid": "custom_037",
+    "difficulty": "medium",
+    "question": "What color is commonly associated with the planet named after the Roman god of war?",
+    "gold_answer": "red",
+    "context": [
+      {"title": "Roman god of war", "text": "Mars was the Roman god of war."},
+      {"title": "Mars planet", "text": "Mars is commonly called the Red Planet because of its reddish color."}
+    ]
+  },
+  {
+    "qid": "custom_038",
+    "difficulty": "medium",
+    "question": "Which country is home to the company that created the PlayStation console?",
+    "gold_answer": "Japan",
+    "context": [
+      {"title": "PlayStation", "text": "The PlayStation console was created by Sony."},
+      {"title": "Sony", "text": "Sony is a company based in Japan."}
+    ]
+  },
+  {
+    "qid": "custom_039",
+    "difficulty": "easy",
+    "question": "What type of food is the product made from cacao beans?",
+    "gold_answer": "chocolate",
+    "context": [
+      {"title": "Cacao beans", "text": "Cacao beans are processed to make cocoa products."},
+      {"title": "Cocoa products", "text": "Chocolate is a food made from cocoa products."}
+    ]
+  },
+  {
+    "qid": "custom_040",
+    "difficulty": "medium",
+    "question": "What is the capital of the country where the city of Barcelona is located?",
+    "gold_answer": "Madrid",
+    "context": [
+      {"title": "Barcelona", "text": "Barcelona is a city in Spain."},
+      {"title": "Spain", "text": "Madrid is the capital city of Spain."}
+    ]
+  },
+  {
+    "qid": "custom_041",
+    "difficulty": "medium",
+    "question": "Which continent contains the country where Machu Picchu is located?",
+    "gold_answer": "South America",
+    "context": [
+      {"title": "Machu Picchu", "text": "Machu Picchu is located in Peru."},
+      {"title": "Peru", "text": "Peru is a country in South America."}
+    ]
+  },
+  {
+    "qid": "custom_042",
+    "difficulty": "medium",
+    "question": "What is the capital of the country whose largest city is Toronto?",
+    "gold_answer": "Ottawa",
+    "context": [
+      {"title": "Toronto", "text": "Toronto is the largest city in Canada."},
+      {"title": "Canada", "text": "Ottawa is the capital city of Canada."}
+    ]
+  },
+  {
+    "qid": "custom_043",
+    "difficulty": "medium",
+    "question": "What is the profession of the person who wrote Hamlet?",
+    "gold_answer": "playwright",
+    "context": [
+      {"title": "Hamlet", "text": "Hamlet was written by William Shakespeare."},
+      {"title": "William Shakespeare", "text": "William Shakespeare was an English playwright and poet."}
+    ]
+  },
+  {
+    "qid": "custom_044",
+    "difficulty": "medium",
+    "question": "What country contains the city that is home to the Acropolis?",
+    "gold_answer": "Greece",
+    "context": [
+      {"title": "Acropolis", "text": "The Acropolis is located in Athens."},
+      {"title": "Athens", "text": "Athens is the capital city of Greece."}
+    ]
+  },
+  {
+    "qid": "custom_045",
+    "difficulty": "medium",
+    "question": "Which element has the symbol used for the gas balloons are often filled with?",
+    "gold_answer": "helium",
+    "context": [
+      {"title": "Balloons", "text": "Some floating balloons are filled with helium gas."},
+      {"title": "Helium", "text": "Helium is the chemical element with symbol He."}
+    ]
+  },
+  {
+    "qid": "custom_046",
+    "difficulty": "medium",
+    "question": "What is the capital city of the country where the pyramids of Giza are located?",
+    "gold_answer": "Cairo",
+    "context": [
+      {"title": "Pyramids of Giza", "text": "The pyramids of Giza are located in Egypt."},
+      {"title": "Egypt", "text": "Cairo is the capital city of Egypt."}
+    ]
+  },
+  {
+    "qid": "custom_047",
+    "difficulty": "medium",
+    "question": "Which ocean lies east of the country whose capital is Buenos Aires?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {"title": "Buenos Aires", "text": "Buenos Aires is the capital city of Argentina."},
+      {"title": "Argentina", "text": "Argentina has the Atlantic Ocean to its east."}
+    ]
+  },
+  {
+    "qid": "custom_048",
+    "difficulty": "hard",
+    "question": "What language family includes the language spoken in the country whose capital is Athens?",
+    "gold_answer": "Hellenic",
+    "context": [
+      {"title": "Athens", "text": "Athens is the capital city of Greece."},
+      {"title": "Greek language", "text": "Greek is the official language of Greece and belongs to the Hellenic branch."}
+    ]
+  },
+  {
+    "qid": "custom_049",
+    "difficulty": "medium",
+    "question": "Which country contains the city that has the Brandenburg Gate?",
+    "gold_answer": "Germany",
+    "context": [
+      {"title": "Brandenburg Gate", "text": "The Brandenburg Gate is located in Berlin."},
+      {"title": "Berlin", "text": "Berlin is the capital city of Germany."}
+    ]
+  },
+  {
+    "qid": "custom_050",
+    "difficulty": "medium",
+    "question": "What is the capital of the country where the author of One Hundred Years of Solitude was born?",
+    "gold_answer": "Bogota",
+    "context": [
+      {"title": "One Hundred Years of Solitude", "text": "One Hundred Years of Solitude was written by Gabriel Garcia Marquez."},
+      {"title": "Gabriel Garcia Marquez", "text": "Gabriel Garcia Marquez was born in Colombia."},
+      {"title": "Colombia", "text": "Bogota is the capital city of Colombia."}
+    ]
+  }
+]

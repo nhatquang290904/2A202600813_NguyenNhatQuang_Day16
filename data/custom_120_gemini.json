@@ -1,0 +1,1922 @@
+[
+  {
+    "qid": "gemini_001",
+    "difficulty": "medium",
+    "question": "What country was the first to recognize the independence of the United States, and what was its capital city at that time?",
+    "gold_answer": "Fez",
+    "context": [
+      {
+        "title": "Morocco-United States Relations",
+        "text": "The Kingdom of Morocco was the first nation to recognize the United States as an independent nation in 1777, through a letter from Sultan Mohammed III to George Washington."
+      },
+      {
+        "title": "History of Fez",
+        "text": "While Rabat is the modern capital of Morocco, during the late 18th century, the city of Fez served as the primary imperial city and seat of government for many centuries, including the period of the American Revolution."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_002",
+    "difficulty": "medium",
+    "question": "Which type of cell, responsible for transmitting electrical signals, is found in the brain, and what is the name of the fatty substance that insulates its axon?",
+    "gold_answer": "Myelin sheath",
+    "context": [
+      {
+        "title": "Neurons",
+        "text": "Neurons are the fundamental units of the brain and nervous system, responsible for receiving sensory input from the external world, sending motor commands to our muscles, and transforming and relaying electrical signals at every step in between."
+      },
+      {
+        "title": "Axon Insulation",
+        "text": "The axon of a neuron is often insulated by a myelin sheath, a fatty layer that helps speed up the transmission of electrical impulses along the nerve fiber."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_003",
+    "difficulty": "easy",
+    "question": "In Greek mythology, who was the hero known for slaying the Minotaur, and what labyrinth did he navigate to achieve this?",
+    "gold_answer": "Labyrinth",
+    "context": [
+      {
+        "title": "Theseus",
+        "text": "Theseus, a legendary hero in Greek mythology, is most famous for his adventure in Crete, where he slew the Minotaur, a monstrous creature with the head of a bull and the body of a man."
+      },
+      {
+        "title": "The Minotaur's Prison",
+        "text": "The Minotaur was imprisoned in the Labyrinth, an elaborate maze-like construction designed by the architect Daedalus for King Minos of Crete."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_004",
+    "difficulty": "hard",
+    "question": "What company developed the first commercially successful personal computer, and what was the name of the operating system it primarily used?",
+    "gold_answer": "Apple DOS",
+    "context": [
+      {
+        "title": "Apple II",
+        "text": "Apple Inc. released the Apple II in 1977, which is widely considered the first highly successful mass-produced personal computer, selling millions of units."
+      },
+      {
+        "title": "Apple II Operating Systems",
+        "text": "The Apple II initially used an Integer BASIC interpreter in ROM, but later versions and expansions supported Apple DOS, and eventually ProDOS, as its primary disk operating systems for managing files and running applications."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_005",
+    "difficulty": "easy",
+    "question": "Who composed the opera 'The Marriage of Figaro,' and what language is the libretto primarily written in?",
+    "gold_answer": "Italian",
+    "context": [
+      {
+        "title": "Wolfgang Amadeus Mozart",
+        "text": "Wolfgang Amadeus Mozart composed the famous opera 'Le nozze di Figaro' (The Marriage of Figaro), which premiered in Vienna in 1786."
+      },
+      {
+        "title": "The Marriage of Figaro Libretto",
+        "text": "Mozart's opera 'The Marriage of Figaro' uses an Italian libretto, adapted by Lorenzo Da Ponte from a stage comedy by Pierre Beaumarchais."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_006",
+    "difficulty": "easy",
+    "question": "Which South American country is known for the Amazon rainforest, and what is its official language?",
+    "gold_answer": "Portuguese",
+    "context": [
+      {
+        "title": "Geography of Brazil",
+        "text": "Brazil, the largest country in South America, contains a significant portion of the Amazon rainforest, a vast tropical forest known for its biodiversity."
+      },
+      {
+        "title": "Languages of Brazil",
+        "text": "The official language of Brazil is Portuguese, a legacy of its colonial past under Portuguese rule."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_007",
+    "difficulty": "easy",
+    "question": "What sport features a 'slam dunk,' and which professional league popularized this move?",
+    "gold_answer": "National Basketball Association (NBA)",
+    "context": [
+      {
+        "title": "Basketball Terminology",
+        "text": "A slam dunk is a type of shot in basketball that is performed when a player jumps in the air, controls the ball above the horizontal plane of the rim, and scores by forcing the ball directly through the basket."
+      },
+      {
+        "title": "History of the Slam Dunk",
+        "text": "While dunks existed before, the National Basketball Association (NBA) widely popularized the slam dunk as a thrilling and athletic play, making it a highlight of the game."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_008",
+    "difficulty": "hard",
+    "question": "What is the name of the force that keeps planets in orbit around the Sun, and what mathematical concept, developed by the same person, was crucial for describing this force?",
+    "gold_answer": "Calculus",
+    "context": [
+      {
+        "title": "Gravity",
+        "text": "Gravitational force is the fundamental interaction responsible for the attraction between masses, causing planets to orbit stars and objects to fall to the ground."
+      },
+      {
+        "title": "Isaac Newton's Contributions",
+        "text": "Sir Isaac Newton, who formulated the laws of universal gravitation, also independently developed calculus (infinitesimal calculus), which provided the mathematical tools necessary to describe continuous change and motion, including planetary orbits."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_009",
+    "difficulty": "easy",
+    "question": "Which element is the primary component of diamond, and what is its chemical symbol?",
+    "gold_answer": "C",
+    "context": [
+      {
+        "title": "Diamond Composition",
+        "text": "Diamond is an allotrope of carbon, meaning it is made purely of carbon atoms arranged in a specific crystal structure, giving it its exceptional hardness and brilliance."
+      },
+      {
+        "title": "Chemical Elements",
+        "text": "The chemical symbol for carbon is 'C', derived from the Latin word 'carbo' meaning charcoal."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_010",
+    "difficulty": "easy",
+    "question": "Who was the first female Prime Minister of the United Kingdom, and what political party did she lead?",
+    "gold_answer": "Conservative Party",
+    "context": [
+      {
+        "title": "Margaret Thatcher",
+        "text": "Margaret Thatcher served as Prime Minister of the United Kingdom from 1979 to 1990, becoming the first woman to hold that office and the longest-serving British Prime Minister of the 20th century."
+      },
+      {
+        "title": "British Political Parties",
+        "text": "Margaret Thatcher was a prominent leader of the Conservative Party, a centre-right political party in the United Kingdom."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_011",
+    "difficulty": "easy",
+    "question": "What is the boundary around a black hole beyond which nothing, not even light, can escape?",
+    "gold_answer": "Event horizon",
+    "context": [
+      {
+        "title": "Black Hole Definition",
+        "text": "A black hole is a region of spacetime where gravity is so strong that nothing, not even light or other electromagnetic waves, has enough energy to escape it."
+      },
+      {
+        "title": "Event Horizon",
+        "text": "The event horizon is the boundary defining the 'point of no return' around a black hole. Once an object crosses the event horizon, it cannot escape the black hole's gravitational pull."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_012",
+    "difficulty": "easy",
+    "question": "Which ancient empire had its capital in the city situated on the Tiber River in Italy?",
+    "gold_answer": "Roman Empire",
+    "context": [
+      {
+        "title": "Rome's Location",
+        "text": "Rome is the capital city of Italy. It is located on the Tiber River in the central-western portion of the Italian Peninsula."
+      },
+      {
+        "title": "Roman Empire Origin",
+        "text": "The Roman Empire was a vast and powerful civilization that originated in the city of Rome. It was one of the largest empires in the ancient world."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_013",
+    "difficulty": "medium",
+    "question": "What multi-headed mythical creature, known for regenerating its heads, was slain by the hero born to Zeus and Alcmene?",
+    "gold_answer": "Lernaean Hydra",
+    "context": [
+      {
+        "title": "Hercules' Origin",
+        "text": "Hercules, also known as Heracles, was a divine hero in Greek mythology, the son of Zeus and Alcmene. He was renowned for his strength and numerous adventures."
+      },
+      {
+        "title": "Hercules' Labors",
+        "text": "One of Hercules' most famous labors was the slaying of the Lernaean Hydra, a multi-headed water serpent that grew two new heads for every one cut off."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_014",
+    "difficulty": "easy",
+    "question": "In which vast body of water would you find the largest mammal on Earth, which is a type of fully aquatic marine mammal?",
+    "gold_answer": "Oceans",
+    "context": [
+      {
+        "title": "Whale Classification",
+        "text": "Whales are a widely distributed and diverse group of fully aquatic placental marine mammals. They are grouped into two parvorders: toothed whales and baleen whales."
+      },
+      {
+        "title": "Blue Whale Habitat",
+        "text": "The blue whale is the largest animal known to have ever existed. Blue whales are baleen whales and can be found in all oceans, migrating between feeding and breeding grounds."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_015",
+    "difficulty": "easy",
+    "question": "What global information system, developed by Tim Berners-Lee, allows users to access documents and other resources via the internet?",
+    "gold_answer": "World Wide Web",
+    "context": [
+      {
+        "title": "Inventor of WWW",
+        "text": "Sir Tim Berners-Lee, a British computer scientist, is credited with inventing the World Wide Web in 1989 while working at CERN."
+      },
+      {
+        "title": "Function of WWW",
+        "text": "The World Wide Web (WWW), commonly known as the Web, is a global information system that enables users to access documents and other web resources via the internet. It uses HTTP for communication."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_016",
+    "difficulty": "easy",
+    "question": "Which iconic portrait, considered a masterpiece of the Italian Renaissance, was painted by the Italian artist Leonardo da Vinci?",
+    "gold_answer": "Mona Lisa",
+    "context": [
+      {
+        "title": "Leonardo da Vinci's Nationality",
+        "text": "Leonardo da Vinci was an Italian polymath of the High Renaissance who was active as a painter, draughtsman, engineer, scientist, theorist, sculptor, and architect."
+      },
+      {
+        "title": "Mona Lisa Description",
+        "text": "The Mona Lisa is a half-length portrait painting by Italian artist Leonardo da Vinci. Considered an archetypal masterpiece of the Italian Renaissance, it has been described as 'the best known, the most visited, the most written about, the most sung about, the most parodied work of art in the world'."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_017",
+    "difficulty": "easy",
+    "question": "What precious metal, known for being highly malleable and an excellent electrical conductor, is frequently used in jewelry and coinage?",
+    "gold_answer": "Gold",
+    "context": [
+      {
+        "title": "Properties of Gold",
+        "text": "Gold is a chemical element with the symbol Au and atomic number 79. It is a dense, soft, shiny, malleable, and ductile metal."
+      },
+      {
+        "title": "Uses of Gold",
+        "text": "Gold has been a highly valued precious metal for coinage, jewelry, and other arts throughout recorded history. It is also used in electronics due to its excellent electrical conductivity and resistance to corrosion."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_018",
+    "difficulty": "easy",
+    "question": "What is the sixth planet from the Sun, famous for its extensive and visible ring system?",
+    "gold_answer": "Saturn",
+    "context": [
+      {
+        "title": "Saturn's Position",
+        "text": "Saturn is the sixth planet from the Sun and the second-largest planet in the Solar System, after Jupiter."
+      },
+      {
+        "title": "Saturn's Rings",
+        "text": "Saturn is best known for its prominent ring system, which is composed of countless small particles ranging in size from micrometers to meters, orbiting the planet."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_019",
+    "difficulty": "medium",
+    "question": "Which renowned German composer, known for his symphonies and numerous sonatas, wrote extensively for the stringed musical instrument where hammers strike the strings?",
+    "gold_answer": "Ludwig van Beethoven",
+    "context": [
+      {
+        "title": "Piano Description",
+        "text": "The piano is an acoustic, stringed musical instrument invented in Italy by Bartolomeo Cristofori around the year 1700, in which the strings are struck by hammers."
+      },
+      {
+        "title": "Beethoven's Works",
+        "text": "Ludwig van Beethoven was a German composer and pianist. He is one of the most revered figures in the history of Western music, known for his symphonies, concertos, and 32 piano sonatas."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_020",
+    "difficulty": "easy",
+    "question": "What ancient defensive structure, built across the northern borders of China, was primarily constructed to protect against invasions from nomadic groups?",
+    "gold_answer": "Great Wall of China",
+    "context": [
+      {
+        "title": "Great Wall Location",
+        "text": "The Great Wall of China is a series of fortifications that were built across the historical northern borders of ancient Chinese states and Imperial China."
+      },
+      {
+        "title": "Great Wall Purpose",
+        "text": "The primary purpose of the Great Wall was to protect the Chinese states and empires against the raids and invasions of various nomadic groups from the Eurasian Steppe, such as the Mongols."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_021",
+    "difficulty": "easy",
+    "question": "What is the name of the scientist who first proposed the theory of relativity, a concept that describes the relationship between space and time?",
+    "gold_answer": "Albert Einstein",
+    "context": [
+      {
+        "title": "Theory of Relativity",
+        "text": "The theory of relativity, developed in the early 20th century, fundamentally changed our understanding of space and time, as well as the relationship between mass and energy."
+      },
+      {
+        "title": "Albert Einstein",
+        "text": "Albert Einstein, a German-born theoretical physicist, is widely credited with developing the theory of relativity, one of the two pillars of modern physics."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_022",
+    "difficulty": "medium",
+    "question": "Which ancient civilization, known for its pyramids, developed a writing system called hieroglyphs?",
+    "gold_answer": "Ancient Egyptians",
+    "context": [
+      {
+        "title": "Hieroglyphic Writing",
+        "text": "Hieroglyphs were a formal writing system used by the ancient Egyptians, combining logographic and alphabetic elements. They were used for religious texts and monumental inscriptions."
+      },
+      {
+        "title": "Ancient Egypt",
+        "text": "The ancient Egyptians were a civilization in ancient Northeast Africa, famous for their monumental pyramids, elaborate burial rituals, and the rule of pharaohs."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_023",
+    "difficulty": "hard",
+    "question": "What is the capital city of the country where the Amazon River, the largest river by discharge volume, primarily flows?",
+    "gold_answer": "Brasilia",
+    "context": [
+      {
+        "title": "Amazon River",
+        "text": "The Amazon River, located in South America, is the largest river in the world by discharge volume and primarily flows through Brazil, Peru, and Colombia, with the largest portion in Brazil."
+      },
+      {
+        "title": "Capital of Brazil",
+        "text": "Brasilia is the federal capital of Brazil and the seat of government of the Federal District. It was built in the late 1950s to replace Rio de Janeiro as the capital."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_024",
+    "difficulty": "easy",
+    "question": "What type of celestial body, known for its icy composition and elliptical orbit, is Halley's Comet?",
+    "gold_answer": "Comet",
+    "context": [
+      {
+        "title": "Halley's Comet",
+        "text": "Halley's Comet is a short-period comet visible from Earth every 75-76 years. It is one of the brightest comets and the only one of its kind that can be seen twice in a human lifetime."
+      },
+      {
+        "title": "Comets",
+        "text": "Comets are cosmic snowballs of frozen gases, rock, and dust that orbit the Sun, often in highly elliptical paths. When near the Sun, they display a visible coma and sometimes a tail."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_025",
+    "difficulty": "medium",
+    "question": "Which famous playwright, author of \"Romeo and Juliet,\" also wrote the tragedy \"Hamlet\"?",
+    "gold_answer": "William Shakespeare",
+    "context": [
+      {
+        "title": "William Shakespeare",
+        "text": "William Shakespeare is widely regarded as the greatest writer in the English language and the world's pre-eminent dramatist. He is often called England's national poet."
+      },
+      {
+        "title": "Shakespeare's Works",
+        "text": "Among Shakespeare's most famous tragedies are 'Romeo and Juliet,' a timeless tale of star-crossed lovers, and 'Hamlet,' a profound exploration of revenge and morality."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_026",
+    "difficulty": "hard",
+    "question": "What is the primary language spoken in the country that is home to Mount Everest, the world's highest peak?",
+    "gold_answer": "Nepali",
+    "context": [
+      {
+        "title": "Mount Everest Location",
+        "text": "Mount Everest, Earth's highest mountain above sea level, is located in the Mahalangur Himal sub-range of the Himalayas, straddling the border between Nepal and Tibet (China)."
+      },
+      {
+        "title": "Languages of Nepal",
+        "text": "Nepali is the official and most commonly spoken language in Nepal, a country known for its mountainous terrain and rich cultural heritage. It is an Indo-Aryan language."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_027",
+    "difficulty": "easy",
+    "question": "What is the name of the Roman god of war, who is also associated with the planet Mars?",
+    "gold_answer": "Mars",
+    "context": [
+      {
+        "title": "Roman Mythology",
+        "text": "In Roman mythology, Mars was the god of war and also an agricultural guardian, a combination characteristic of early Rome. He was second only to Jupiter in importance."
+      },
+      {
+        "title": "Planet Mars",
+        "text": "The planet Mars is named after the Roman god of war, due to its reddish appearance, which reminded ancient observers of blood. It is the fourth planet from the Sun."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_028",
+    "difficulty": "medium",
+    "question": "Which famous painting, depicting a woman with an enigmatic smile, was created by Leonardo da Vinci?",
+    "gold_answer": "Mona Lisa",
+    "context": [
+      {
+        "title": "Leonardo da Vinci",
+        "text": "Leonardo da Vinci was an Italian polymath of the High Renaissance who was active as a painter, draughtsman, engineer, scientist, theorist, sculptor, and architect. He is widely considered one of the greatest painters of all time."
+      },
+      {
+        "title": "Mona Lisa",
+        "text": "The Mona Lisa is a half-length portrait painting by Italian artist Leonardo da Vinci. Considered an archetypal masterpiece of the Italian Renaissance, it is famous for its enigmatic smile and is housed at the Louvre Museum in Paris."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_029",
+    "difficulty": "hard",
+    "question": "What is the name of the large landmass that separated from the supercontinent Pangea and later broke into present-day Africa and South America?",
+    "gold_answer": "Gondwana",
+    "context": [
+      {
+        "title": "Pangea",
+        "text": "Pangea was a supercontinent that existed during the late Paleozoic and early Mesozoic eras, forming approximately 335 million years ago. It began to break apart around 175 million years ago."
+      },
+      {
+        "title": "Gondwana",
+        "text": "Gondwana was one of two supercontinents (the other being Laurasia) that formed from the breakup of the supercontinent Pangea. It later fragmented to form most of the landmasses of the Southern Hemisphere, including Antarctica, South America, Africa, Madagascar, and Australia."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_030",
+    "difficulty": "medium",
+    "question": "What is the name of the instrument that uses a lens or mirror to gather light from distant objects, a technology first significantly improved by Galileo Galilei?",
+    "gold_answer": "Telescope",
+    "context": [
+      {
+        "title": "Galileo Galilei's Contributions",
+        "text": "Galileo Galilei, an Italian astronomer and physicist, is often credited with significant improvements to the telescope, which allowed him to make groundbreaking astronomical observations, such as the phases of Venus and Jupiter's moons."
+      },
+      {
+        "title": "Telescope Definition",
+        "text": "A telescope is an optical instrument that uses lenses or curved mirrors, or a combination of both, to observe distant objects by collecting electromagnetic radiation (such as visible light)."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_031",
+    "difficulty": "easy",
+    "question": "What is the primary diet of a lion, given its classification?",
+    "gold_answer": "Meat",
+    "context": [
+      {
+        "title": "Lion Classification",
+        "text": "Lions are large felines belonging to the Mammalia class and are members of the order Carnivora."
+      },
+      {
+        "title": "Carnivore Diet",
+        "text": "Mammals in the order Carnivora, which includes felines, primarily consume meat as their main source of nutrition."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_032",
+    "difficulty": "medium",
+    "question": "Besides painting, what other artistic field was the creator of the Mona Lisa known for?",
+    "gold_answer": "Sculpture",
+    "context": [
+      {
+        "title": "Mona Lisa Creator",
+        "text": "The Mona Lisa, a famous portrait, was painted by the Italian polymath Leonardo da Vinci."
+      },
+      {
+        "title": "Leonardo da Vinci's Talents",
+        "text": "Leonardo da Vinci was a polymath of the High Renaissance, active as a painter, draughtsman, engineer, scientist, theorist, sculptor, and architect."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_033",
+    "difficulty": "easy",
+    "question": "Which iconic tower can be found in the capital city of France?",
+    "gold_answer": "Eiffel Tower",
+    "context": [
+      {
+        "title": "Capital of France",
+        "text": "Paris is the capital and most populous city of France, located on the River Seine."
+      },
+      {
+        "title": "Parisian Landmarks",
+        "text": "The Eiffel Tower, a wrought-iron lattice tower, is located on the Champ de Mars in Paris, France, and is one of the most recognizable structures in the world."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_034",
+    "difficulty": "medium",
+    "question": "What powerful weapon is associated with the king of the Olympian gods?",
+    "gold_answer": "Thunderbolt",
+    "context": [
+      {
+        "title": "King of the Gods",
+        "text": "In ancient Greek religion, Zeus is the sky and thunder god and king of the gods of Mount Olympus."
+      },
+      {
+        "title": "Zeus's Weapon",
+        "text": "Zeus's most recognized symbol and weapon is the thunderbolt, which he wields to enforce his will and strike down his enemies."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_035",
+    "difficulty": "easy",
+    "question": "Besides the light bulb, what other major device was invented by Thomas Edison?",
+    "gold_answer": "Phonograph",
+    "context": [
+      {
+        "title": "Light Bulb Inventor",
+        "text": "Thomas Edison is widely credited with inventing the practical incandescent light bulb in 1879."
+      },
+      {
+        "title": "Edison's Other Inventions",
+        "text": "Among his many inventions, Thomas Edison also developed the phonograph, a device for recording and reproducing sound, in 1877."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_036",
+    "difficulty": "medium",
+    "question": "What material is typically used for the bow of a violin, a member of the string family?",
+    "gold_answer": "Horsehair",
+    "context": [
+      {
+        "title": "Violin Classification",
+        "text": "The violin is a wooden string instrument, part of the string family, known for its melodic capabilities."
+      },
+      {
+        "title": "Bow Construction",
+        "text": "The bows used to play string instruments like the violin are commonly made from horsehair stretched between a stick and a frog, allowing friction to produce sound."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_037",
+    "difficulty": "medium",
+    "question": "What track and field event, involving throwing, is a staple of the modern Olympic Games, which have roots in ancient Greece?",
+    "gold_answer": "Discus throw",
+    "context": [
+      {
+        "title": "Ancient Olympic Origins",
+        "text": "The ancient Olympic Games were a series of athletic competitions among representatives of city-states and one of the Panhellenic Games of ancient Greece."
+      },
+      {
+        "title": "Modern Olympic Events",
+        "text": "The discus throw is an event in track and field where an athlete throws a heavy disc called a discus. It has been part of the modern Olympic Games since their revival."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_038",
+    "difficulty": "easy",
+    "question": "What alcoholic drink can be produced from the same grain that is primarily used to make bread?",
+    "gold_answer": "Beer",
+    "context": [
+      {
+        "title": "Bread Grain",
+        "text": "Wheat is a grass widely cultivated for its seed, a cereal grain which is a worldwide staple food, primarily used for making flour for bread."
+      },
+      {
+        "title": "Beer Ingredients",
+        "text": "Beer is an alcoholic beverage typically made from water, malted barley, hops, and yeast. However, many varieties, such as wheat beer, use wheat as a primary ingredient."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_039",
+    "difficulty": "medium",
+    "question": "What is the common title for the head of government in many republics that operate under a system where power is held by the people?",
+    "gold_answer": "President",
+    "context": [
+      {
+        "title": "Forms of Government",
+        "text": "Democracy is a system of government where the citizens exercise power either directly or elect representatives from among themselves to form a governing body."
+      },
+      {
+        "title": "Heads of State",
+        "text": "In many democratic republics, the head of state and often the head of government is known as the President, elected by the people or their representatives."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_040",
+    "difficulty": "easy",
+    "question": "What is the name of the largest moon that orbits the largest planet in our solar system?",
+    "gold_answer": "Ganymede",
+    "context": [
+      {
+        "title": "Largest Planet",
+        "text": "Jupiter is the fifth planet from the Sun and the largest in the Solar System, with a mass more than two and a half times that of all the other planets combined."
+      },
+      {
+        "title": "Moons of Jupiter",
+        "text": "Ganymede is the largest moon of Jupiter and the largest moon in the Solar System, even larger than the planet Mercury."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_041",
+    "difficulty": "easy",
+    "question": "What is the primary function of the device invented by Charles Babbage, which was a precursor to modern computers?",
+    "gold_answer": "performing complex calculations",
+    "context": [
+      {
+        "title": "Charles Babbage",
+        "text": "Charles Babbage, a British mathematician and inventor, is credited with conceiving the first automatic digital computer. He is often referred to as the 'Father of the Computer'."
+      },
+      {
+        "title": "Analytical Engine",
+        "text": "Babbage's most famous design was the Analytical Engine. This mechanical general-purpose computer was designed to perform complex calculations and was a significant conceptual leap towards modern computing."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_042",
+    "difficulty": "medium",
+    "question": "Which language family does the language spoken in the country known for its fjords belong to?",
+    "gold_answer": "North Germanic",
+    "context": [
+      {
+        "title": "Norway",
+        "text": "Norway is a Scandinavian country renowned for its deep coastal fjords, which are long, narrow inlets of the sea, typically flanked by steep cliffs."
+      },
+      {
+        "title": "Norwegian Language",
+        "text": "The official language of Norway is Norwegian, which is a North Germanic language. It is closely related to Danish and Swedish."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_043",
+    "difficulty": "hard",
+    "question": "What is the name of the mythological creature, often depicted as a large serpent or dragon, that guarded the Golden Fleece, a treasure sought by Jason?",
+    "gold_answer": "Colchian Dragon",
+    "context": [
+      {
+        "title": "Jason and the Argonauts",
+        "text": "In Greek mythology, Jason was a hero who led the Argonauts in their quest to find the Golden Fleece. This fleece was a symbol of authority and kingship."
+      },
+      {
+        "title": "The Golden Fleece",
+        "text": "The Golden Fleece was guarded in a sacred grove in Colchis by a sleepless dragon. This dragon, often referred to as the Colchian Dragon, was a formidable beast that never slept and was immune to harm."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_044",
+    "difficulty": "easy",
+    "question": "Which planet is known for its prominent ring system, and what is the name of its largest moon?",
+    "gold_answer": "Titan",
+    "context": [
+      {
+        "title": "Saturn",
+        "text": "Saturn is the sixth planet from the Sun and the second-largest planet in our solar system. It is famous for its extensive and beautiful ring system, which is composed mainly of ice particles and rocky debris."
+      },
+      {
+        "title": "Moons of Saturn",
+        "text": "Saturn has numerous moons, with its largest and most well-known moon being Titan. Titan is unique among moons for having a dense atmosphere and stable bodies of liquid on its surface."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_045",
+    "difficulty": "medium",
+    "question": "What type of animal is a 'platypus', and in which continent is it primarily found?",
+    "gold_answer": "Australia",
+    "context": [
+      {
+        "title": "Platypus",
+        "text": "The platypus is a semi-aquatic egg-laying mammal endemic to eastern Australia, including Tasmania. It is one of only five extant species of monotremes, the only mammals that lay eggs instead of giving birth to live young."
+      },
+      {
+        "title": "Monotremes",
+        "text": "Monotremes are an order of mammals that lay eggs instead of giving birth to live young. They are characterized by a unique combination of reptilian and mammalian features."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_046",
+    "difficulty": "easy",
+    "question": "What is the name of the famous painting by Leonardo da Vinci, which is housed in the Louvre Museum?",
+    "gold_answer": "Mona Lisa",
+    "context": [
+      {
+        "title": "Leonardo da Vinci",
+        "text": "Leonardo da Vinci was an Italian polymath of the High Renaissance who was active as a painter, draughtsman, engineer, scientist, theorist, sculptor, and architect."
+      },
+      {
+        "title": "The Louvre Museum",
+        "text": "The Louvre Museum in Paris, France, is one of the world's largest and most visited art museums. It is home to many famous works of art, including Leonardo da Vinci's 'Mona Lisa'."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_047",
+    "difficulty": "medium",
+    "question": "Which ancient civilization developed a sophisticated writing system known as hieroglyphs, and what was the name of their sun god?",
+    "gold_answer": "Ra",
+    "context": [
+      {
+        "title": "Ancient Egypt",
+        "text": "Ancient Egypt was a civilization of ancient North Africa, concentrated along the lower reaches of the Nile River. Their writing system, known as hieroglyphs, was a formal writing system used by the ancient Egyptians that combined logographic and alphabetic elements."
+      },
+      {
+        "title": "Egyptian Mythology",
+        "text": "In ancient Egyptian mythology, Ra was the ancient Egyptian deity of the sun. He was one of the most important gods in the Egyptian pantheon and was often considered the king of the gods."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_048",
+    "difficulty": "hard",
+    "question": "What is the primary ingredient in 'kimchi', a traditional Korean side dish, and what type of fermentation process does it undergo?",
+    "gold_answer": "lactic acid fermentation",
+    "context": [
+      {
+        "title": "Kimchi",
+        "text": "Kimchi is a traditional Korean side dish made of salted and fermented napa cabbage and Korean radish, seasoned with a variety of spices and flavorings. It is often served with nearly every Korean meal."
+      },
+      {
+        "title": "Fermentation",
+        "text": "Fermentation is a metabolic process that produces chemical changes in organic substrates through the action of enzymes. In the context of food, lactic acid fermentation is a common method used to preserve vegetables, such as in the production of sauerkraut and kimchi."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_049",
+    "difficulty": "easy",
+    "question": "Which famous playwright wrote 'Romeo and Juliet', and in which city is the play primarily set?",
+    "gold_answer": "Verona",
+    "context": [
+      {
+        "title": "William Shakespeare",
+        "text": "William Shakespeare was an English playwright, poet, and actor, widely regarded as the greatest writer in the English language and the world's pre-eminent dramatist. He wrote numerous famous plays, including 'Romeo and Juliet'."
+      },
+      {
+        "title": "Romeo and Juliet",
+        "text": "Shakespeare's tragedy 'Romeo and Juliet' tells the story of two young star-crossed lovers whose deaths ultimately reconcile their feuding families. The play is primarily set in the city of Verona, Italy."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_050",
+    "difficulty": "medium",
+    "question": "What is the name of the highest mountain in Africa, and what type of landform is it?",
+    "gold_answer": "stratovolcano",
+    "context": [
+      {
+        "title": "Mount Kilimanjaro",
+        "text": "Mount Kilimanjaro is the highest mountain in Africa and the highest single free-standing mountain in the world. It is located in Tanzania."
+      },
+      {
+        "title": "Volcano Types",
+        "text": "Kilimanjaro is a dormant stratovolcano. Stratovolcanoes, also known as composite volcanoes, are conical volcanoes built up by many layers of hardened lava, tephra, pumice, and volcanic ash."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_051",
+    "difficulty": "easy",
+    "question": "Which country contains the city founded by Alexander the Great?",
+    "gold_answer": "Egypt",
+    "context": [
+      {
+        "title": "Alexander the Great",
+        "text": "Alexander the Great founded many cities during his conquests, the most famous being Alexandria in Egypt."
+      },
+      {
+        "title": "Alexandria, Egypt",
+        "text": "Alexandria is a major city in Egypt, located on the Mediterranean coast."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_052",
+    "difficulty": "medium",
+    "question": "What chemical is produced by the primary food source of the Monarch butterfly caterpillar?",
+    "gold_answer": "cardiac glycosides",
+    "context": [
+      {
+        "title": "Monarch Butterfly Diet",
+        "text": "Monarch butterfly caterpillars feed exclusively on milkweed plants, which are crucial for their development."
+      },
+      {
+        "title": "Milkweed Plant Properties",
+        "text": "Milkweed plants produce a milky sap containing toxic compounds called cardiac glycosides, which deter most predators."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_053",
+    "difficulty": "easy",
+    "question": "What film was adapted from a novel by Jane Austen?",
+    "gold_answer": "Pride and Prejudice",
+    "context": [
+      {
+        "title": "Jane Austen's Works",
+        "text": "Jane Austen was an English novelist known primarily for her six major novels, including 'Pride and Prejudice'."
+      },
+      {
+        "title": "Pride and Prejudice Adaptations",
+        "text": "The novel 'Pride and Prejudice' has been adapted into numerous films and television series, including a popular 2005 film starring Keira Knightley."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_054",
+    "difficulty": "medium",
+    "question": "What technology is utilized by a product developed by Apple Inc. that allows for wireless communication over short distances?",
+    "gold_answer": "Bluetooth",
+    "context": [
+      {
+        "title": "Apple Inc. Products",
+        "text": "Apple Inc. is known for developing various electronic devices, including the iPhone, iPad, and Mac computers."
+      },
+      {
+        "title": "iPhone Connectivity",
+        "text": "The iPhone incorporates several wireless technologies, such as Wi-Fi for internet access and Bluetooth for short-range device-to-device communication."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_055",
+    "difficulty": "easy",
+    "question": "In which city was the FIFA World Cup final won by Brazil in 2002 held?",
+    "gold_answer": "Yokohama",
+    "context": [
+      {
+        "title": "2002 FIFA World Cup",
+        "text": "Brazil won the 2002 FIFA World Cup, defeating Germany in the final match."
+      },
+      {
+        "title": "World Cup Venues",
+        "text": "The 2002 FIFA World Cup was co-hosted by South Korea and Japan. The final match took place at the International Stadium Yokohama in Yokohama, Japan."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_056",
+    "difficulty": "medium",
+    "question": "What instrument family does the instrument played by Yo-Yo Ma belong to?",
+    "gold_answer": "String family",
+    "context": [
+      {
+        "title": "Yo-Yo Ma's Career",
+        "text": "Yo-Yo Ma is a world-renowned American cellist, celebrated for his exceptional musicianship and diverse repertoire."
+      },
+      {
+        "title": "Cello Classification",
+        "text": "The cello is a bowed string instrument belonging to the string family, which also includes the violin, viola, and double bass."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_057",
+    "difficulty": "hard",
+    "question": "What object was involved in the famous deed of Perseus, which led to the defeat of Medusa?",
+    "gold_answer": "A polished shield",
+    "context": [
+      {
+        "title": "Perseus and Medusa",
+        "text": "Perseus was a demigod hero in Greek mythology, most famous for his quest to slay the Gorgon Medusa."
+      },
+      {
+        "title": "Defeating Medusa",
+        "text": "To avoid Medusa's petrifying gaze, Perseus used a highly polished bronze shield, given to him by the goddess Athena, as a mirror to see her reflection and guide his sword."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_058",
+    "difficulty": "medium",
+    "question": "From which region is the primary ingredient of sushi, traditionally, sourced?",
+    "gold_answer": "East Asia",
+    "context": [
+      {
+        "title": "Sushi Ingredients",
+        "text": "Sushi is a Japanese dish primarily consisting of vinegared rice combined with various ingredients, such as seafood and vegetables."
+      },
+      {
+        "title": "Rice Cultivation History",
+        "text": "Rice, particularly the short-grain varieties preferred for sushi, has been cultivated for thousands of years, with its origins and traditional sourcing centered in East Asia."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_059",
+    "difficulty": "easy",
+    "question": "Who proposed the legislation that established the National Park Service in the United States?",
+    "gold_answer": "Stephen Mather",
+    "context": [
+      {
+        "title": "National Park Service Establishment",
+        "text": "The National Park Service was established on August 25, 1916, when President Woodrow Wilson signed the National Park Service Organic Act into law."
+      },
+      {
+        "title": "Stephen Mather's Role",
+        "text": "Stephen Mather, a wealthy industrialist and conservationist, was instrumental in lobbying for and drafting the legislation that created the National Park Service, and he became its first director."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_060",
+    "difficulty": "hard",
+    "question": "Who discovered a moon of Jupiter that is known for its intense volcanic activity?",
+    "gold_answer": "Galileo Galilei",
+    "context": [
+      {
+        "title": "Moons of Jupiter",
+        "text": "Jupiter has many moons, including Io, Europa, Ganymede, and Callisto, often referred to as the Galilean moons."
+      },
+      {
+        "title": "Io's Features and Discovery",
+        "text": "Io is the most volcanically active body in the solar system. It was discovered by Galileo Galilei in 1610, along with the other three largest Jovian moons."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_061",
+    "difficulty": "easy",
+    "question": "What was the pen name used by the author of \"A Study in Scarlet\"?",
+    "gold_answer": "A. C. Doyle",
+    "context": [
+      {
+        "title": "Author's Works",
+        "text": "Arthur Conan Doyle wrote \"A Study in Scarlet,\" which introduced the character Sherlock Holmes."
+      },
+      {
+        "title": "Pen Names",
+        "text": "Arthur Conan Doyle is known for his detective stories, but he also used the pen name A. C. Doyle for some of his historical novels and other works."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_062",
+    "difficulty": "medium",
+    "question": "In which country does the White Nile, a major tributary of the Nile, originate?",
+    "gold_answer": "Uganda",
+    "context": [
+      {
+        "title": "Nile Tributaries",
+        "text": "The White Nile is one of the two main tributaries of the Nile River. It flows north from Lake Victoria, which is Africa's largest lake by area."
+      },
+      {
+        "title": "Lake Victoria Geography",
+        "text": "Lake Victoria is primarily located within Tanzania and Uganda, with a small portion in Kenya. The White Nile officially begins its journey from the northern shores of Lake Victoria, specifically in Uganda."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_063",
+    "difficulty": "easy",
+    "question": "What unit of electrical resistance is named after the physicist who formulated the relationship between voltage, current, and resistance?",
+    "gold_answer": "ohm",
+    "context": [
+      {
+        "title": "Ohm's Law",
+        "text": "Georg Simon Ohm was a German physicist who discovered that there is a direct proportionality between the voltage (potential difference) across a conductor and the electric current flowing through it, a principle known as Ohm's Law."
+      },
+      {
+        "title": "SI Units",
+        "text": "The SI unit of electrical resistance, the ohm (symbol: Omega), is named after Georg Simon Ohm in recognition of his contributions to the field of electricity."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_064",
+    "difficulty": "medium",
+    "question": "In what modern-day country would you find the ruins of Persepolis, the ceremonial capital of the Achaemenid Empire?",
+    "gold_answer": "Iran",
+    "context": [
+      {
+        "title": "Persepolis",
+        "text": "Persepolis was the ceremonial capital of the Achaemenid Empire (c. 550-330 BC). It is situated 60 km northeast of the city of Shiraz."
+      },
+      {
+        "title": "Shiraz Location",
+        "text": "Shiraz is a city in south-central Iran, known for its literary history and many gardens. It is the capital of Fars Province."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_065",
+    "difficulty": "hard",
+    "question": "What domain is associated with the father of Perseus, the hero who slew Medusa?",
+    "gold_answer": "sky",
+    "context": [
+      {
+        "title": "Perseus's Lineage",
+        "text": "Perseus was a legendary hero of Greek mythology, famous for beheading the Gorgon Medusa. His mother was Danae, and his father was Zeus."
+      },
+      {
+        "title": "Zeus's Domain",
+        "text": "In Greek mythology, Zeus is the king of the gods and the god of the sky, lightning, thunder, law, order, and justice. He wields a thunderbolt as his weapon."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_066",
+    "difficulty": "easy",
+    "question": "What art movement is associated with the painting \"Starry Night\" by Vincent van Gogh?",
+    "gold_answer": "Post-Impressionism",
+    "context": [
+      {
+        "title": "Van Gogh's Masterpiece",
+        "text": "\"The Starry Night\" is an oil on canvas painting by the Dutch painter Vincent van Gogh. It depicts the view from the east-facing window of his asylum room at Saint-Paul-de-Mausole, just before sunrise, with the addition of an idealized village."
+      },
+      {
+        "title": "Art Movements",
+        "text": "Vincent van Gogh is widely regarded as a Post-Impressionist painter. Post-Impressionism was a predominantly French art movement that developed roughly between 1886 and 1905, from the last Impressionist exhibition to the birth of Fauvism."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_067",
+    "difficulty": "medium",
+    "question": "What was the primary language spoken in the home country of Wolfgang Amadeus Mozart?",
+    "gold_answer": "German",
+    "context": [
+      {
+        "title": "Mozart's Birthplace",
+        "text": "Wolfgang Amadeus Mozart was a prolific and influential composer of the Classical era. He was born in Salzburg, which was then part of the Archbishopric of Salzburg, a state of the Holy Roman Empire."
+      },
+      {
+        "title": "Holy Roman Empire",
+        "text": "The Holy Roman Empire was a multi-ethnic complex of territories in Central Europe that developed during the Early Middle Ages and continued until its dissolution in 1806. German was the most widely spoken language within its territories, particularly in the Austrian Circle where Salzburg was located."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_068",
+    "difficulty": "easy",
+    "question": "What common household appliance was invented by James Dyson, known for his bagless vacuum cleaners?",
+    "gold_answer": "vacuum cleaner",
+    "context": [
+      {
+        "title": "James Dyson's Inventions",
+        "text": "James Dyson is a British inventor, industrial designer, and founder of the Dyson company. He is best known as the inventor of the Dual Cyclone bagless vacuum cleaner, which revolutionized the market."
+      },
+      {
+        "title": "Dyson Company Products",
+        "text": "The Dyson company primarily manufactures household appliances, including vacuum cleaners, hand dryers, bladeless fans, and hair dryers. The bagless vacuum cleaner was his initial and most impactful invention that led to the company's success."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_069",
+    "difficulty": "medium",
+    "question": "What order do humans belong to within the class Mammalia?",
+    "gold_answer": "Primates",
+    "context": [
+      {
+        "title": "Human Classification",
+        "text": "Humans (Homo sapiens) are the only extant species of the genus Homo. They belong to the class Mammalia, characterized by features like mammary glands and hair."
+      },
+      {
+        "title": "Mammalian Orders",
+        "text": "Within the class Mammalia, humans are classified under the order Primates. This order also includes other species such as monkeys, apes, and lemurs, sharing common evolutionary traits."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_070",
+    "difficulty": "hard",
+    "question": "What was the nationality of the author who created the character Sherlock Holmes?",
+    "gold_answer": "British",
+    "context": [
+      {
+        "title": "Sherlock Holmes Creator",
+        "text": "Sherlock Holmes is a fictional private detective created by author Sir Arthur Conan Doyle. He first appeared in print in 1887's 'A Study in Scarlet'."
+      },
+      {
+        "title": "Arthur Conan Doyle's Origin",
+        "text": "Sir Arthur Conan Doyle was born in Edinburgh, Scotland, on May 22, 1859. Scotland is a constituent country of the United Kingdom, making him a British citizen."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_071",
+    "difficulty": "easy",
+    "question": "What is the primary function of chlorophyll in plants, and what type of energy does it convert?",
+    "gold_answer": "Absorb light, light energy",
+    "context": [
+      {
+        "title": "Plant Pigments",
+        "text": "Chlorophyll is the green pigment found in the chloroplasts of plants. Its primary function is to absorb light, particularly in the red and blue parts of the electromagnetic spectrum."
+      },
+      {
+        "title": "Photosynthesis Process",
+        "text": "During photosynthesis, chlorophyll plays a crucial role by converting the absorbed light energy into chemical energy. This chemical energy is then used by the plant for various metabolic processes, including growth and reproduction."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_072",
+    "difficulty": "medium",
+    "question": "Who invented the printing press, and what major historical event did its widespread adoption contribute to?",
+    "gold_answer": "Johannes Gutenberg, Protestant Reformation",
+    "context": [
+      {
+        "title": "Invention of Printing Press",
+        "text": "Johannes Gutenberg, a German goldsmith and inventor, is widely credited with inventing the movable type printing press in Europe around 1440. His invention revolutionized book production."
+      },
+      {
+        "title": "Impact of Printing Press",
+        "text": "The widespread adoption of the printing press significantly contributed to the Protestant Reformation by allowing for the rapid and mass dissemination of religious texts, pamphlets, and new ideas across Europe, challenging established authorities."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_073",
+    "difficulty": "easy",
+    "question": "Which famous ancient structure is located in Giza, Egypt, and what material was primarily used in its construction?",
+    "gold_answer": "The Great Pyramid of Giza, limestone",
+    "context": [
+      {
+        "title": "Ancient Wonders",
+        "text": "The Great Pyramid of Giza, also known as the Pyramid of Khufu, is the oldest and largest of the three pyramids in the G Giza Necropolis, Egypt. It is one of the Seven Wonders of the Ancient World."
+      },
+      {
+        "title": "Pyramid Construction",
+        "text": "This colossal structure was primarily constructed from massive blocks of limestone, quarried from nearby sites. Granite was also used for some interior chambers and passages."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_074",
+    "difficulty": "easy",
+    "question": "What is the nationality of William Shakespeare, and what genre of plays is he most renowned for?",
+    "gold_answer": "English, tragedies",
+    "context": [
+      {
+        "title": "Shakespeare's Biography",
+        "text": "William Shakespeare was an English playwright, poet, and actor, widely regarded as the greatest writer in the English language and the world's pre-eminent dramatist. He was born in Stratford-upon-Avon, England."
+      },
+      {
+        "title": "Shakespeare's Works",
+        "text": "He is most renowned for his tragedies, such as 'Hamlet', 'Othello', 'King Lear', and 'Macbeth', which explore profound human themes. However, he also wrote numerous comedies and historical plays."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_075",
+    "difficulty": "medium",
+    "question": "What company developed the first widely successful personal computer, and what was the name of its operating system?",
+    "gold_answer": "Apple Inc., Apple DOS",
+    "context": [
+      {
+        "title": "Early Personal Computers",
+        "text": "Apple Inc. developed the Apple II, which was one of the first highly successful mass-produced microcomputers designed for home users. It was introduced in 1977 and became a major success."
+      },
+      {
+        "title": "Apple II Software",
+        "text": "The Apple II initially used an operating system called Apple DOS (Disk Operating System) for managing files and running applications from floppy disks. It was later succeeded by ProDOS."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_076",
+    "difficulty": "medium",
+    "question": "Which art movement is characterized by its use of geometric shapes and multiple perspectives, and who was one of its pioneering artists?",
+    "gold_answer": "Cubism, Pablo Picasso",
+    "context": [
+      {
+        "title": "Cubist Art Movement",
+        "text": "Cubism was a revolutionary art movement that emerged in the early 20th century. It is characterized by its fragmentation of objects into geometric shapes and the presentation of multiple viewpoints simultaneously within a single picture plane."
+      },
+      {
+        "title": "Founders of Cubism",
+        "text": "Pablo Picasso, alongside Georges Braque, is widely considered one of the pioneering artists and co-founders of the Cubist movement. Their collaboration led to the development of its distinctive style."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_077",
+    "difficulty": "easy",
+    "question": "In Greek mythology, who is the king of the gods, and what is his primary weapon?",
+    "gold_answer": "Zeus, lightning bolt",
+    "context": [
+      {
+        "title": "Olympian Gods",
+        "text": "Zeus is the king of the gods in Greek mythology, ruling from Mount Olympus. He is the god of the sky, lightning, thunder, law, order, and justice."
+      },
+      {
+        "title": "Powers of Zeus",
+        "text": "His primary weapon is the lightning bolt, which he wields to enforce his will, punish those who defy him, and demonstrate his immense power. He is often depicted holding one."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_078",
+    "difficulty": "easy",
+    "question": "What family of instruments does the violin belong to, and what material is typically used for its bow's hair?",
+    "gold_answer": "String family, horsehair",
+    "context": [
+      {
+        "title": "Musical Instrument Classification",
+        "text": "The violin is a string instrument, specifically part of the string family, which also includes the viola, cello, and double bass. These instruments produce sound by vibrating strings."
+      },
+      {
+        "title": "Violin Bow Construction",
+        "text": "The bow used to play the violin typically has hair made from horsehair, often from the tail of a white horse. This material provides the necessary friction to make the strings vibrate."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_079",
+    "difficulty": "medium",
+    "question": "Which planet is known for its prominent ring system, and what is the primary composition of these rings?",
+    "gold_answer": "Saturn, water ice",
+    "context": [
+      {
+        "title": "Planets of the Solar System",
+        "text": "Saturn is the sixth planet from the Sun and the second-largest planet in our solar system. It is famous for its extensive and prominent system of planetary rings, which are easily visible through a telescope."
+      },
+      {
+        "title": "Saturn's Rings",
+        "text": "These magnificent rings are primarily composed of billions of small particles, ranging in size from micrometers to meters. The vast majority of these particles are made of water ice, with a trace amount of rocky material."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_080",
+    "difficulty": "easy",
+    "question": "What is the main ingredient in traditional Italian pasta, and what common sauce often accompanies it?",
+    "gold_answer": "Durum wheat semolina, Marinara sauce",
+    "context": [
+      {
+        "title": "Italian Cuisine Basics",
+        "text": "Traditional Italian pasta is primarily made from durum wheat semolina and water, sometimes with eggs added, especially in fresh pasta varieties. This gives it a firm texture when cooked al dente."
+      },
+      {
+        "title": "Popular Pasta Sauces",
+        "text": "Marinara sauce, a simple yet flavorful tomato-based sauce often seasoned with garlic, herbs (like oregano and basil), and onions, is one of the most common sauces served with various types of pasta."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_081",
+    "difficulty": "easy",
+    "question": "What is the title of the novel written by the author who was born in Colombia?",
+    "gold_answer": "One Hundred Years of Solitude",
+    "context": [
+      {
+        "title": "Gabriel Garcia Marquez",
+        "text": "Gabriel Garcia Marquez was a Colombian novelist, short-story writer, screenwriter, and journalist."
+      },
+      {
+        "title": "One Hundred Years of Solitude",
+        "text": "One Hundred Years of Solitude is a 1967 novel by Colombian author Gabriel Garcia Marquez that tells the multi-generational story of the Buendia family."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_082",
+    "difficulty": "medium",
+    "question": "What element was discovered by Marie Curie, who was known for her work in radioactivity?",
+    "gold_answer": "Radium",
+    "context": [
+      {
+        "title": "Marie Curie",
+        "text": "Marie Curie was a Polish and naturalized-French physicist and chemist who conducted pioneering research on radioactivity."
+      },
+      {
+        "title": "Discovery of Radium",
+        "text": "In 1898, Marie and Pierre Curie discovered the element radium, which is highly radioactive and emits a blue glow."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_083",
+    "difficulty": "easy",
+    "question": "Which famous tower is located in the capital city of France?",
+    "gold_answer": "Eiffel Tower",
+    "context": [
+      {
+        "title": "France",
+        "text": "The capital and most populous city of France is Paris, located on the River Seine."
+      },
+      {
+        "title": "Paris Landmarks",
+        "text": "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It is one of the most recognizable structures in the world."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_084",
+    "difficulty": "medium",
+    "question": "What major conflict was led by George Washington, who served as the first President of the United States?",
+    "gold_answer": "American Revolutionary War",
+    "context": [
+      {
+        "title": "George Washington",
+        "text": "George Washington was an American military officer, statesman, and Founding Father who served as the first president of the United States from 1789 to 1797."
+      },
+      {
+        "title": "American Revolutionary War",
+        "text": "During the American Revolutionary War, George Washington led the Continental Army to victory against the British."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_085",
+    "difficulty": "hard",
+    "question": "What three-headed dog guards the underworld, a realm ruled by Hades?",
+    "gold_answer": "Cerberus",
+    "context": [
+      {
+        "title": "Hades",
+        "text": "In ancient Greek religion and myth, Hades is the god of the dead and the king of the underworld, with which his name became synonymous."
+      },
+      {
+        "title": "Cerberus",
+        "text": "Cerberus, often called the 'hound of Hades', is a multi-headed dog that guards the gates of the Underworld to prevent the dead from leaving."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_086",
+    "difficulty": "easy",
+    "question": "What painting is famous for its enigmatic smile and was created by an Italian Renaissance artist?",
+    "gold_answer": "Mona Lisa",
+    "context": [
+      {
+        "title": "Leonardo da Vinci",
+        "text": "Leonardo da Vinci was an Italian polymath of the High Renaissance who was active as a painter, draughtsman, engineer, scientist, theorist, sculptor, and architect."
+      },
+      {
+        "title": "Mona Lisa",
+        "text": "The Mona Lisa is a half-length portrait painting by Italian artist Leonardo da Vinci. Considered an archetypal masterpiece of the Italian Renaissance, it has been described as 'the best known, the most visited, the most written about, the most sung about, the most parodied work of art in the world'."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_087",
+    "difficulty": "medium",
+    "question": "What communication device was invented by Alexander Graham Bell, a Scottish-born inventor?",
+    "gold_answer": "Telephone",
+    "context": [
+      {
+        "title": "Alexander Graham Bell",
+        "text": "Alexander Graham Bell was a Scottish-born inventor, scientist, and engineer who is credited with inventing the first practical telephone."
+      },
+      {
+        "title": "Invention of the Telephone",
+        "text": "Bell's work on the harmonic telegraph led to his invention of the telephone, receiving the first U.S. patent for the device on March 7, 1876."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_088",
+    "difficulty": "hard",
+    "question": "What do pandas primarily eat, given that they are native to the mountainous regions of central China?",
+    "gold_answer": "Bamboo",
+    "context": [
+      {
+        "title": "Giant Panda",
+        "text": "The giant panda, a bear native to south central China, is characterized by large, distinctive black patches around its eyes, over the ears, and across its round body."
+      },
+      {
+        "title": "Panda Diet",
+        "text": "Despite its taxonomic classification as a carnivore, the giant panda's diet is over 99% bamboo. Pandas in the wild will occasionally eat other grasses, wild tubers, or even meat in the form of birds, rodents, or carrion."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_089",
+    "difficulty": "easy",
+    "question": "Which symphony is often referred to as the 'Eroica' and was composed by a prominent figure of the Classical era?",
+    "gold_answer": "Symphony No. 3",
+    "context": [
+      {
+        "title": "Ludwig van Beethoven",
+        "text": "Ludwig van Beethoven was a German composer and pianist. A crucial figure in the transition between the Classical and Romantic eras in Western art music, he remains one of the most recognized and influential of all composers."
+      },
+      {
+        "title": "Symphony No. 3 (Beethoven)",
+        "text": "The Symphony No. 3 in E-flat major, Op. 55, also known as the 'Eroica' (Italian for 'heroic'), is a symphony by Ludwig van Beethoven. It was first performed in 1805."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_090",
+    "difficulty": "medium",
+    "question": "What record for most career points in the NBA is held by Kareem Abdul-Jabbar, a legendary basketball player?",
+    "gold_answer": "38,387 points",
+    "context": [
+      {
+        "title": "Kareem Abdul-Jabbar",
+        "text": "Kareem Abdul-Jabbar is an American former professional basketball player who played 20 seasons in the National Basketball Association (NBA) for the Milwaukee Bucks and the Los Angeles Lakers."
+      },
+      {
+        "title": "NBA Scoring Record",
+        "text": "Abdul-Jabbar holds the record for the most career points in the NBA with 38,387 points. This record stood for nearly 39 years until it was surpassed by LeBron James in 2023."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_091",
+    "difficulty": "easy",
+    "question": "What was the birth name of the author known as Mark Twain?",
+    "gold_answer": "Samuel Langhorne Clemens",
+    "context": [
+      {
+        "title": "American Authors",
+        "text": "Mark Twain is the pen name of a famous American writer, humorist, entrepreneur, publisher, and lecturer."
+      },
+      {
+        "title": "Samuel Langhorne Clemens",
+        "text": "Samuel Langhorne Clemens (November 30, 1835 - April 21, 1910), known by his pen name Mark Twain, was an American writer. He was noted for his novels The Adventures of Tom Sawyer and Adventures of Huckleberry Finn."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_092",
+    "difficulty": "medium",
+    "question": "In which rift valley is the primary source of the Nile River located?",
+    "gold_answer": "East African Rift Valley",
+    "context": [
+      {
+        "title": "Nile River",
+        "text": "The Nile River is the longest river in Africa and has historically been considered the longest river in the world. Its primary source, the White Nile, originates in the Great Lakes region of Central Africa."
+      },
+      {
+        "title": "Lake Victoria",
+        "text": "Lake Victoria is one of the African Great Lakes. It is bordered by Kenya, Tanzania, and Uganda, and is located within the East African Rift Valley."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_093",
+    "difficulty": "easy",
+    "question": "What is the atomic number of the element represented by the symbol Au?",
+    "gold_answer": "79",
+    "context": [
+      {
+        "title": "Chemical Elements",
+        "text": "The chemical symbol for gold is Au, derived from its Latin name 'aurum'."
+      },
+      {
+        "title": "Gold",
+        "text": "Gold is a chemical element with the symbol Au and atomic number 79. It is a dense, soft, shiny, malleable, and ductile metal."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_094",
+    "difficulty": "easy",
+    "question": "In which city was the Declaration of Independence signed?",
+    "gold_answer": "Philadelphia",
+    "context": [
+      {
+        "title": "Declaration of Independence",
+        "text": "The Declaration of Independence was a statement adopted by the Continental Congress on July 4, 1776, which announced that the thirteen American colonies regarded themselves as thirteen newly independent sovereign states, and no longer under British rule."
+      },
+      {
+        "title": "Independence Hall",
+        "text": "Independence Hall is a historic civic building in Philadelphia, Pennsylvania, where both the United States Declaration of Independence and the United States Constitution were debated and adopted."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_095",
+    "difficulty": "medium",
+    "question": "Which Roman deity is equivalent to the Greek god of sky and thunder?",
+    "gold_answer": "Jupiter",
+    "context": [
+      {
+        "title": "Greek Mythology",
+        "text": "In Greek mythology, Zeus is the king of the gods and the god of sky, lightning, thunder, law, order, and justice. He is the youngest child of Cronus and Rhea."
+      },
+      {
+        "title": "Roman Mythology",
+        "text": "Jupiter is the king of the gods in Roman mythology and the god of sky and thunder. He is the Roman equivalent of Zeus."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_096",
+    "difficulty": "easy",
+    "question": "What was the nationality of the artist who painted the Mona Lisa?",
+    "gold_answer": "Italian",
+    "context": [
+      {
+        "title": "Mona Lisa",
+        "text": "The Mona Lisa is a half-length portrait painting by Italian artist Leonardo da Vinci. Considered an archetypal masterpiece of the Italian Renaissance, it has been described as 'the best known, the most visited, the most written about, the most sung about, the most parodied work of art in the world'."
+      },
+      {
+        "title": "Leonardo da Vinci",
+        "text": "Leonardo di ser Piero da Vinci (April 15, 1452 - May 2, 1519) was an Italian polymath of the High Renaissance who was active as a painter, draughtsman, engineer, scientist, theorist, sculptor, and architect."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_097",
+    "difficulty": "easy",
+    "question": "What is the primary food source for giant pandas?",
+    "gold_answer": "Bamboo",
+    "context": [
+      {
+        "title": "Giant Panda Habitat",
+        "text": "The giant panda, also known as the panda or bamboo bear, is a bear native to south central China. It is easily recognized by the large, distinctive black patches around its eyes, over its ears, and across its round body."
+      },
+      {
+        "title": "Giant Panda Diet",
+        "text": "Giant pandas are bears whose diet consists almost exclusively of bamboo. Although they are classified as carnivores, their diet is over 99% bamboo. They occasionally eat other grasses, wild tubers, or even meat in the form of birds, rodents, or carrion."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_098",
+    "difficulty": "medium",
+    "question": "What company was founded by the inventor of the first practical telephone?",
+    "gold_answer": "American Telephone and Telegraph Company (AT&T)",
+    "context": [
+      {
+        "title": "Alexander Graham Bell",
+        "text": "Alexander Graham Bell (March 3, 1847 - August 2, 1922) was a Scottish-born American inventor, scientist, and engineer widely credited with inventing the first practical telephone."
+      },
+      {
+        "title": "AT&T",
+        "text": "The American Telephone and Telegraph Company (AT&T) was founded in 1885 by Alexander Graham Bell as a subsidiary of the Bell Telephone Company. It grew to become the largest telephone company in the United States."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_099",
+    "difficulty": "easy",
+    "question": "What is the name of the fourth planet from the Sun, often called the Red Planet?",
+    "gold_answer": "Mars",
+    "context": [
+      {
+        "title": "Planets of the Solar System",
+        "text": "The Solar System consists of the Sun and eight planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. Each planet orbits the Sun at a different distance."
+      },
+      {
+        "title": "Mars",
+        "text": "Mars is the fourth planet from the Sun and the second-smallest planet in the Solar System. It is often referred to as the 'Red Planet' because of its reddish appearance, which is caused by iron oxide prevalent on its surface."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_100",
+    "difficulty": "medium",
+    "question": "Which musical instrument, known for its deep sound, is a member of the string family along with the violin and viola?",
+    "gold_answer": "Cello",
+    "context": [
+      {
+        "title": "Musical Instrument Families",
+        "text": "Musical instruments are often categorized into families based on how they produce sound. The string family includes instruments that produce sound from vibrating strings, while the brass family uses vibrating lips against a mouthpiece."
+      },
+      {
+        "title": "String Instruments",
+        "text": "Common string instruments include the violin, viola, cello, and double bass. The cello is known for its rich, deep sound and is played while seated, held between the legs."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_101",
+    "difficulty": "easy",
+    "question": "What country was Marie Curie born in?",
+    "gold_answer": "Poland",
+    "context": [
+      {
+        "title": "Marie Curie Biography",
+        "text": "Marie Curie, a renowned physicist and chemist, was born in Warsaw on November 7, 1867."
+      },
+      {
+        "title": "Warsaw Geography",
+        "text": "Warsaw is the capital and largest city of Poland, located on the Vistula River."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_102",
+    "difficulty": "medium",
+    "question": "What type of consumer is a lion, based on its diet?",
+    "gold_answer": "Carnivore",
+    "context": [
+      {
+        "title": "Lion Diet",
+        "text": "Lions are apex predators whose diet consists almost entirely of meat, primarily large ungulates like wildebeest, zebra, and buffalo."
+      },
+      {
+        "title": "Consumer Classification",
+        "text": "Animals that primarily consume meat are classified as carnivores, while those that eat plants are herbivores, and those that eat both are omnivores."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_103",
+    "difficulty": "medium",
+    "question": "In what language was 'The Odyssey' originally written?",
+    "gold_answer": "Ancient Greek",
+    "context": [
+      {
+        "title": "The Odyssey Overview",
+        "text": "The Odyssey is one of two major ancient Greek epic poems attributed to Homer."
+      },
+      {
+        "title": "Homer's Language",
+        "text": "Homer, the legendary author of the Iliad and the Odyssey, composed his works in Ancient Greek."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_104",
+    "difficulty": "easy",
+    "question": "In what country was Alexander Graham Bell, the inventor of the telephone, born?",
+    "gold_answer": "Scotland",
+    "context": [
+      {
+        "title": "Telephone Invention",
+        "text": "Alexander Graham Bell is widely credited with inventing the first practical telephone and founding the Bell Telephone Company in 1877."
+      },
+      {
+        "title": "Alexander Graham Bell Early Life",
+        "text": "Bell was born on March 3, 1847, in Edinburgh, Scotland, to Professor Alexander Melville Bell and Eliza Grace Symonds Bell."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_105",
+    "difficulty": "medium",
+    "question": "What instrument family does the primary instrument of Ludwig van Beethoven belong to?",
+    "gold_answer": "Keyboard",
+    "context": [
+      {
+        "title": "Ludwig van Beethoven",
+        "text": "Ludwig van Beethoven was a German composer and pianist whose music ranks among the most performed of the classical music repertoire."
+      },
+      {
+        "title": "Piano Classification",
+        "text": "The piano is a musical instrument played using a keyboard, which causes hammers to strike steel strings and produce sound."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_106",
+    "difficulty": "easy",
+    "question": "Which country hosted the 2000 Summer Olympics?",
+    "gold_answer": "Australia",
+    "context": [
+      {
+        "title": "2000 Summer Olympics",
+        "text": "The 2000 Summer Olympics, officially known as the Games of the XXVII Olympiad, were held from 15 September to 1 October 2000 in Sydney."
+      },
+      {
+        "title": "Sydney Geography",
+        "text": "Sydney is the capital city of New South Wales and the most populous city in Australia and Oceania."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_107",
+    "difficulty": "easy",
+    "question": "In which country is the Eiffel Tower located?",
+    "gold_answer": "France",
+    "context": [
+      {
+        "title": "Eiffel Tower History",
+        "text": "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It was constructed from 1887 to 1889."
+      },
+      {
+        "title": "Paris Geography",
+        "text": "Paris is the capital and most populous city of France, situated on the River Seine."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_108",
+    "difficulty": "medium",
+    "question": "What was the nationality of the leader of the first expedition to circumnavigate the Earth?",
+    "gold_answer": "Portuguese",
+    "context": [
+      {
+        "title": "Circumnavigation History",
+        "text": "Ferdinand Magellan led the first expedition to circumnavigate the Earth, though he died during the voyage in the Philippines."
+      },
+      {
+        "title": "Ferdinand Magellan Biography",
+        "text": "Ferdinand Magellan was a Portuguese explorer who organized the Spanish expedition to the East Indies from 1519 to 1522."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_109",
+    "difficulty": "hard",
+    "question": "What is the atomic number of the element represented by the symbol 'Na'?",
+    "gold_answer": "11",
+    "context": [
+      {
+        "title": "Chemical Elements",
+        "text": "The chemical symbol 'Na' is used to represent the element sodium, which is an alkali metal."
+      },
+      {
+        "title": "Sodium Properties",
+        "text": "Sodium (Na) has an atomic number of 11, meaning each atom of sodium has 11 protons in its nucleus."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_110",
+    "difficulty": "easy",
+    "question": "What is the primary gas that makes up Jupiter?",
+    "gold_answer": "Hydrogen",
+    "context": [
+      {
+        "title": "Solar System Planets",
+        "text": "Jupiter is the largest planet in our Solar System, known for its massive size and prominent Great Red Spot."
+      },
+      {
+        "title": "Jupiter's Atmosphere",
+        "text": "Jupiter's atmosphere is primarily composed of hydrogen (about 90% by volume) and helium (about 10% by volume), with trace amounts of other gases."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_111",
+    "difficulty": "easy",
+    "question": "Who discovered the moon that orbits Jupiter and is known for its volcanic activity?",
+    "gold_answer": "Galileo Galilei",
+    "context": [
+      {
+        "title": "Jupiter's Moons",
+        "text": "Io is one of Jupiter's four largest moons. It is the most volcanically active body in the Solar System."
+      },
+      {
+        "title": "Galilean Moons",
+        "text": "Galileo Galilei discovered the four largest moons of Jupiter, including Io, Europa, Ganymede, and Callisto, in 1610."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_112",
+    "difficulty": "medium",
+    "question": "In which city can one find the famous painting 'The Starry Night' by Vincent van Gogh?",
+    "gold_answer": "New York City",
+    "context": [
+      {
+        "title": "Vincent van Gogh",
+        "text": "Vincent van Gogh was a Dutch post-impressionist painter who created 'The Starry Night' in 1889."
+      },
+      {
+        "title": "Museum of Modern Art",
+        "text": "'The Starry Night' is a permanent collection piece at the Museum of Modern Art (MoMA). MoMA is located in New York City."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_113",
+    "difficulty": "easy",
+    "question": "What is the official language spoken in the capital city of France?",
+    "gold_answer": "French",
+    "context": [
+      {
+        "title": "Paris, France",
+        "text": "Paris is the capital and most populous city of France. It is a major European city and a global center for art, fashion, gastronomy, and culture."
+      },
+      {
+        "title": "Languages of France",
+        "text": "The official language of France is French. It is a Romance language of the Indo-European family."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_114",
+    "difficulty": "medium",
+    "question": "Which character from Homer's epic poem 'The Odyssey' is known for her loyalty to Odysseus during his long absence?",
+    "gold_answer": "Penelope",
+    "context": [
+      {
+        "title": "Homer's Epics",
+        "text": "Homer is credited as the author of the epic poems 'The Iliad' and 'The Odyssey,' which are foundational works of ancient Greek literature."
+      },
+      {
+        "title": "Characters in The Odyssey",
+        "text": "In 'The Odyssey,' Penelope is the wife of the main protagonist, Odysseus, and is celebrated for her fidelity and cleverness while awaiting his return from the Trojan War."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_115",
+    "difficulty": "easy",
+    "question": "In what year was the printing press, invented by Johannes Gutenberg, first used to print a major book?",
+    "gold_answer": "1455",
+    "context": [
+      {
+        "title": "Johannes Gutenberg",
+        "text": "Johannes Gutenberg, a German inventor, developed the movable-type printing press in the mid-15th century, revolutionizing book production."
+      },
+      {
+        "title": "Gutenberg Bible",
+        "text": "The Gutenberg Bible, also known as the 42-line Bible, was the first major book printed using Gutenberg's movable type printing press, completed around 1455."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_116",
+    "difficulty": "medium",
+    "question": "What is the primary diet of the giant panda, an animal native to the mountainous regions of central China?",
+    "gold_answer": "Bamboo",
+    "context": [
+      {
+        "title": "Giant Panda Habitat",
+        "text": "The giant panda (Ailuropoda melanoleuca) is a bear native to south central China. It is characterized by its bold black-and-white coat and rotund body."
+      },
+      {
+        "title": "Giant Panda Diet",
+        "text": "Despite its taxonomic classification as a carnivore, the giant panda's diet is over 99% bamboo. They eat various parts of the bamboo plant, including stems, leaves, and shoots."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_117",
+    "difficulty": "easy",
+    "question": "In what year did London host the Summer Olympic Games for the third time?",
+    "gold_answer": "2012",
+    "context": [
+      {
+        "title": "London Olympics",
+        "text": "London has hosted the Summer Olympic Games multiple times, making it the only city to have done so on three occasions."
+      },
+      {
+        "title": "Olympic Host Cities",
+        "text": "The city of London hosted the Summer Olympics in 1908, 1948, and most recently in 2012."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_118",
+    "difficulty": "medium",
+    "question": "What famous ballet was composed by the Russian composer Pyotr Ilyich Tchaikovsky?",
+    "gold_answer": "The Nutcracker",
+    "context": [
+      {
+        "title": "Pyotr Ilyich Tchaikovsky",
+        "text": "Pyotr Ilyich Tchaikovsky was a renowned Russian composer of the Romantic era. His works include symphonies, concertos, operas, ballets, and chamber music."
+      },
+      {
+        "title": "Tchaikovsky's Ballets",
+        "text": "Among Tchaikovsky's most celebrated ballets are 'Swan Lake,' 'The Sleeping Beauty,' and 'The Nutcracker.' These works are staples of the classical ballet repertoire."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_119",
+    "difficulty": "hard",
+    "question": "What major economic policy was implemented by Margaret Thatcher, who served as Prime Minister of the United Kingdom?",
+    "gold_answer": "Privatization",
+    "context": [
+      {
+        "title": "Margaret Thatcher's Premiership",
+        "text": "Margaret Thatcher was a British stateswoman who served as Prime Minister of the United Kingdom from 1979 to 1990. She was the longest-serving British Prime Minister of the 20th century."
+      },
+      {
+        "title": "Thatcherism",
+        "text": "Thatcherism, a set of political and economic policies, was implemented during her time as Prime Minister. Key aspects included privatization of state-owned industries, deregulation, and a reduction in the power of trade unions."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_120",
+    "difficulty": "easy",
+    "question": "What is a key ingredient in sushi, a traditional Japanese dish?",
+    "gold_answer": "Vinegared rice",
+    "context": [
+      {
+        "title": "Sushi Definition",
+        "text": "Sushi is a traditional Japanese dish of prepared vinegared rice, usually with some sugar and salt, accompanied by a variety of ingredients, such as seafood, vegetables, and occasionally tropical fruit."
+      },
+      {
+        "title": "Sushi Components",
+        "text": "The term 'sushi' refers to the vinegared rice, not necessarily the raw fish. Common accompaniments include raw fish (sashimi), nori (seaweed), and various vegetables."
+      }
+    ]
+  }
+]

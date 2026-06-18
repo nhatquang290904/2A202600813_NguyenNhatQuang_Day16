@@ -17,14 +17,34 @@ def summarize(records: list[RunRecord]) -> dict:
     return summary
 
 def failure_breakdown(records: list[RunRecord]) -> dict:
-    grouped: dict[str, Counter] = defaultdict(Counter)
+    by_agent: dict[str, Counter] = defaultdict(Counter)
+    by_mode: Counter = Counter()
     for record in records:
-        grouped[record.agent_type][record.failure_mode] += 1
-    return {agent: dict(counter) for agent, counter in grouped.items()}
+        by_agent[record.agent_type][record.failure_mode] += 1
+        by_mode[record.failure_mode] += 1
+    analyzed_modes = {
+        "incomplete_multi_hop": {
+            "count": by_mode.get("incomplete_multi_hop", 0),
+            "description": "The answer uses the first supporting fact but stops before completing the second hop.",
+        },
+        "entity_drift": {
+            "count": by_mode.get("entity_drift", 0),
+            "description": "The answer switches to a plausible but unsupported entity from nearby context.",
+        },
+        "wrong_final_answer": {
+            "count": by_mode.get("wrong_final_answer", 0),
+            "description": "The answer is grounded poorly or selects the wrong final entity after reasoning.",
+        },
+    }
+    return {
+        "by_agent": {agent: dict(counter) for agent, counter in by_agent.items()},
+        "by_mode": dict(by_mode),
+        "analyzed_modes": analyzed_modes,
+    }
 
 def build_report(records: list[RunRecord], dataset_name: str, mode: str = "mock") -> ReportPayload:
     examples = [{"qid": r.qid, "agent_type": r.agent_type, "gold_answer": r.gold_answer, "predicted_answer": r.predicted_answer, "is_correct": r.is_correct, "attempts": r.attempts, "failure_mode": r.failure_mode, "reflection_count": len(r.reflections)} for r in records]
-    return ReportPayload(meta={"dataset": dataset_name, "mode": mode, "num_records": len(records), "agents": sorted({r.agent_type for r in records})}, summary=summarize(records), failure_modes=failure_breakdown(records), examples=examples, extensions=["structured_evaluator", "reflection_memory", "benchmark_report_json", "mock_mode_for_autograding"], discussion="Reflexion helps when the first attempt stops after the first hop or drifts to a wrong second-hop entity. The tradeoff is higher attempts, token cost, and latency. In a real report, students should explain when the reflection memory was useful, which failure modes remained, and whether evaluator quality limited gains.")
+    return ReportPayload(meta={"dataset": dataset_name, "mode": mode, "num_records": len(records), "agents": sorted({r.agent_type for r in records})}, summary=summarize(records), failure_modes=failure_breakdown(records), examples=examples, extensions=["structured_evaluator", "reflection_memory", "benchmark_report_json", "mock_mode_for_autograding"], discussion="Reflexion is most useful when the first answer is close but incomplete: for example, it identifies the first-hop entity but forgets to use the second paragraph, drifts to a nearby entity, or returns a plausible final answer without enough grounding. The reflection memory gives the next attempt a compact correction such as checking the second hop explicitly or verifying the final entity against evidence. The tradeoff is higher latency and token use because Reflexion may call the actor, evaluator, and reflector more than once. In this scaffold, mock mode keeps evaluation deterministic for autograding, while Gemini mode demonstrates that the same interfaces can call a real LLM.")
 
 def save_report(report: ReportPayload, out_dir: str | Path) -> tuple[Path, Path]:
     out_dir = Path(out_dir)

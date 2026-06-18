@@ -1,0 +1,802 @@
+[
+  {
+    "qid": "gemini_001",
+    "difficulty": "easy",
+    "question": "What nationality did Marie Curie acquire after her birth?",
+    "gold_answer": "French",
+    "context": [
+      {
+        "title": "Marie Curie Biography",
+        "text": "Marie Skłodowska Curie was a Polish and naturalized French physicist and chemist who conducted pioneering research on radioactivity. She was born in Warsaw, then part of the Kingdom of Poland."
+      },
+      {
+        "title": "Marie Curie's Citizenship",
+        "text": "Although born in Poland, Marie Curie spent much of her adult life in France, where she became a naturalized citizen and conducted most of her scientific work."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_002",
+    "difficulty": "easy",
+    "question": "In which ocean is the deepest known oceanic trench located?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Mariana Trench",
+        "text": "The Mariana Trench is the deepest oceanic trench on Earth. It is located in the western Pacific Ocean, near the Mariana Islands."
+      },
+      {
+        "title": "Ocean Depths",
+        "text": "The Challenger Deep, the deepest known point in the Earth's seabed, is located within the Mariana Trench, which is part of the Pacific Ocean basin."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_003",
+    "difficulty": "medium",
+    "question": "What is the name of the planet known for its prominent ring system, which is also the sixth planet from the Sun?",
+    "gold_answer": "Saturn",
+    "context": [
+      {
+        "title": "Planets of the Solar System",
+        "text": "The Solar System consists of eight planets. In order from the Sun, they are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+      },
+      {
+        "title": "Saturn's Rings",
+        "text": "Saturn is the sixth planet from the Sun and the second-largest in the Solar System, after Jupiter. It is best known for its prominent, beautiful ring system, which is made mostly of ice particles with a smaller amount of rocky debris."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_004",
+    "difficulty": "hard",
+    "question": "Which author, known for writing '1984', also coined the term 'Cold War' in an essay?",
+    "gold_answer": "George Orwell",
+    "context": [
+      {
+        "title": "George Orwell's Works",
+        "text": "George Orwell, born Eric Arthur Blair, was an English novelist, essayist, journalist, and critic. His work is characterized by lucid prose, biting social criticism, opposition to totalitarianism, and outspoken support of democratic socialism. He is best known for the dystopian novel 'Nineteen Eighty-Four' (1949)."
+      },
+      {
+        "title": "Origins of 'Cold War'",
+        "text": "The term 'Cold War' was first used by George Orwell in an essay titled 'You and the Atom Bomb', published in 1945. He used it to refer to a nuclear stalemate between two or three super-states, each possessing a weapon that could wipe out millions of people in a few seconds."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_005",
+    "difficulty": "easy",
+    "question": "Which large cat, native to Africa, is the fastest land animal?",
+    "gold_answer": "Cheetah",
+    "context": [
+      {
+        "title": "African Wildlife",
+        "text": "Africa is home to a diverse range of wildlife, including many large predators like lions, leopards, and cheetahs. The cheetah is particularly known for its incredible speed."
+      },
+      {
+        "title": "Cheetah Speed",
+        "text": "The cheetah (Acinonyx jubatus) is a large cat native to Africa and central Iran. It is the fastest land animal, capable of running at speeds of up to 120 km/h (75 mph) over short distances."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_006",
+    "difficulty": "medium",
+    "question": "What is the name of the ancient city, once the capital of the Byzantine Empire, that is now known as Istanbul?",
+    "gold_answer": "Constantinople",
+    "context": [
+      {
+        "title": "History of Istanbul",
+        "text": "Istanbul, a major city in Turkey, has a rich history. It was founded as Byzantium, later renamed Constantinople, and served as the capital of the Byzantine Empire for over a thousand years."
+      },
+      {
+        "title": "Byzantine Empire",
+        "text": "The Byzantine Empire, also referred to as the Eastern Roman Empire, was the continuation of the Roman Empire in its eastern provinces during Late Antiquity and the Middle Ages. Its capital city was Constantinople."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_007",
+    "difficulty": "easy",
+    "question": "Which country is known for the Great Barrier Reef and is also the smallest continent?",
+    "gold_answer": "Australia",
+    "context": [
+      {
+        "title": "Geography of Australia",
+        "text": "Australia is a country and continent, located in Oceania between the Pacific and Indian oceans. It is the world's smallest continent and the sixth-largest country by total area."
+      },
+      {
+        "title": "Great Barrier Reef",
+        "text": "The Great Barrier Reef is the world's largest coral reef system, composed of over 3,000 individual reefs and 900 islands stretching for over 2,300 kilometers (1,400 miles) over an area of approximately 344,400 square kilometers (133,000 sq mi). It is located off the coast of Queensland, Australia."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_008",
+    "difficulty": "hard",
+    "question": "Which Roman emperor, known for making Christianity the state religion, also founded a new capital city in the East?",
+    "gold_answer": "Constantine the Great",
+    "context": [
+      {
+        "title": "Constantine's Reign",
+        "text": "Constantine the Great was a Roman emperor who ruled from 306 to 337 AD. He is most famous for making Christianity the state religion of the Roman Empire, a pivotal moment in the history of Christianity."
+      },
+      {
+        "title": "Founding of Constantinople",
+        "text": "During his reign, Emperor Constantine also established a new imperial capital, Nova Roma (New Rome), on the site of the ancient Greek city of Byzantium. This city was later renamed Constantinople in his honor and became the capital of the Eastern Roman Empire."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_009",
+    "difficulty": "medium",
+    "question": "What is the primary language spoken in Brazil, a country famous for the Amazon rainforest?",
+    "gold_answer": "Portuguese",
+    "context": [
+      {
+        "title": "Brazil's Geography",
+        "text": "Brazil is the largest country in both South America and Latin America. It is the world's fifth-largest country by area and the seventh-largest by population. It is famous for housing a large portion of the Amazon rainforest."
+      },
+      {
+        "title": "Languages of Brazil",
+        "text": "The official language of Brazil is Portuguese, making it the only Portuguese-speaking country in the Americas. This is a legacy of its colonial history under Portuguese rule."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_010",
+    "difficulty": "easy",
+    "question": "Which planet is known as the 'Red Planet' and is the fourth planet from the Sun?",
+    "gold_answer": "Mars",
+    "context": [
+      {
+        "title": "Planets of the Solar System",
+        "text": "The Solar System's planets in order from the Sun are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune."
+      },
+      {
+        "title": "Mars Facts",
+        "text": "Mars is the fourth planet from the Sun and the second-smallest planet in the Solar System, after Mercury. It is often referred to as the 'Red Planet' due to its reddish appearance, which is caused by iron oxide prevalent on its surface."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_011",
+    "difficulty": "medium",
+    "question": "What is the name of the famous ancient library located in the city founded by Alexander the Great?",
+    "gold_answer": "Library of Alexandria",
+    "context": [
+      {
+        "title": "Ancient Alexandria",
+        "text": "The city of Alexandria in Egypt was founded by Alexander the Great in 331 BC. It became a prominent center of Hellenistic civilization and learning."
+      },
+      {
+        "title": "Library of Alexandria",
+        "text": "One of the most famous institutions in ancient Alexandria was the Library of Alexandria, which was one of the largest and most significant libraries of the ancient world. It flourished under the patronage of the Ptolemaic dynasty."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_012",
+    "difficulty": "hard",
+    "question": "Which scientist, famous for his theory of relativity, also played a significant role in the development of quantum mechanics through his work on the photoelectric effect?",
+    "gold_answer": "Albert Einstein",
+    "context": [
+      {
+        "title": "Albert Einstein's Contributions",
+        "text": "Albert Einstein was a German-born theoretical physicist who developed the theory of relativity, one of the two pillars of modern physics. His work is also known for its influence on the philosophy of science."
+      },
+      {
+        "title": "Photoelectric Effect",
+        "text": "In 1905, Einstein published a paper on the photoelectric effect, which explained how light could eject electrons from a metal surface. This work was crucial in establishing the particle-like nature of light (photons) and contributed significantly to the early development of quantum mechanics, earning him the Nobel Prize in Physics in 1921."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_013",
+    "difficulty": "easy",
+    "question": "What is the name of the river that flows through London, a city known for its iconic Big Ben clock tower?",
+    "gold_answer": "River Thames",
+    "context": [
+      {
+        "title": "London Landmarks",
+        "text": "London, the capital of England and the United Kingdom, is home to many famous landmarks, including the Palace of Westminster, which houses the iconic clock tower known as Big Ben."
+      },
+      {
+        "title": "Geography of London",
+        "text": "The River Thames is a river that flows through southern England, most notably through London. It is the longest river entirely in England and the second-longest in the United Kingdom."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_014",
+    "difficulty": "medium",
+    "question": "Which ancient civilization, known for building pyramids, also developed a complex system of hieroglyphic writing?",
+    "gold_answer": "Ancient Egypt",
+    "context": [
+      {
+        "title": "Ancient Egyptian Architecture",
+        "text": "The ancient Egyptians were renowned for their monumental architecture, most notably the pyramids, which served as tombs for pharaohs and other important figures."
+      },
+      {
+        "title": "Egyptian Writing System",
+        "text": "Ancient Egypt also developed a sophisticated writing system known as hieroglyphs. This system combined logographic, syllabic, and alphabetic elements, used for religious texts, monumental inscriptions, and administrative records."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_015",
+    "difficulty": "easy",
+    "question": "What is the largest land animal, which is also native to Africa and Asia?",
+    "gold_answer": "Elephant",
+    "context": [
+      {
+        "title": "African Wildlife",
+        "text": "Africa is home to the African elephant, the largest land animal. These majestic creatures are known for their large ears and trunks."
+      },
+      {
+        "title": "Asian Wildlife",
+        "text": "The Asian elephant, though slightly smaller than its African counterpart, is also a significant species found across various parts of Asia. Both species are the largest land animals on their respective continents."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_016",
+    "difficulty": "hard",
+    "question": "Which Renaissance artist, famous for painting the Sistine Chapel ceiling, also sculpted 'David'?",
+    "gold_answer": "Michelangelo",
+    "context": [
+      {
+        "title": "Sistine Chapel Ceiling",
+        "text": "The Sistine Chapel ceiling, painted by Michelangelo between 1508 and 1512, is a cornerstone work of High Renaissance art. It depicts nine scenes from the Book of Genesis, including the iconic 'Creation of Adam'."
+      },
+      {
+        "title": "Michelangelo's Sculptures",
+        "text": "Michelangelo di Lodovico Buonarroti Simoni was an Italian sculptor, painter, architect, and poet of the High Renaissance. Among his most famous sculptures is 'David', a masterpiece of Renaissance sculpture created between 1501 and 1504."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_017",
+    "difficulty": "medium",
+    "question": "What is the name of the largest moon of Saturn, which is also the only moon in the Solar System known to have a dense atmosphere?",
+    "gold_answer": "Titan",
+    "context": [
+      {
+        "title": "Moons of Saturn",
+        "text": "Saturn has numerous moons, with Titan being its largest. Other notable moons include Rhea, Iapetus, and Dione."
+      },
+      {
+        "title": "Titan's Atmosphere",
+        "text": "Titan is the largest moon of Saturn and the second-largest moon in the Solar System. It is unique among all moons for having a dense atmosphere, which is composed primarily of nitrogen, similar to Earth's early atmosphere."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_018",
+    "difficulty": "easy",
+    "question": "Which country is home to the Eiffel Tower and is known for its culinary traditions?",
+    "gold_answer": "France",
+    "context": [
+      {
+        "title": "French Cuisine",
+        "text": "France is globally recognized for its rich culinary traditions, including haute cuisine and regional specialties like cheese and wine."
+      },
+      {
+        "title": "Eiffel Tower",
+        "text": "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It is one of the most recognizable structures in the world and a symbol of France."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_019",
+    "difficulty": "medium",
+    "question": "Which ancient Greek philosopher, a student of Plato, was also the tutor of Alexander the Great?",
+    "gold_answer": "Aristotle",
+    "context": [
+      {
+        "title": "Plato's Academy",
+        "text": "Plato was a philosopher in classical Greece and the founder of the Platonist school of thought. His most famous student was Aristotle, who later went on to establish his own school."
+      },
+      {
+        "title": "Aristotle's Influence",
+        "text": "Aristotle was a polymath, a student of Plato, and teacher to Alexander the Great. His writings cover many subjects including physics, metaphysics, poetry, theater, music, logic, rhetoric, politics, government, ethics, biology, and zoology."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_020",
+    "difficulty": "hard",
+    "question": "What is the name of the famous battle where Napoleon Bonaparte was decisively defeated, leading to his final exile?",
+    "gold_answer": "Battle of Waterloo",
+    "context": [
+      {
+        "title": "Napoleon's Return and Defeat",
+        "text": "After his escape from Elba, Napoleon Bonaparte returned to power in France for a period known as the Hundred Days. His final military campaign culminated in a decisive defeat."
+      },
+      {
+        "title": "Battle of Waterloo",
+        "text": "The Battle of Waterloo was fought on Sunday, 18 June 1815, near Waterloo in present-day Belgium. A French army under the command of Napoleon Bonaparte was defeated by two of the armies of the Seventh Coalition: a British-led Allied army under the command of the Duke of Wellington, and a Prussian army under the command of Field Marshal von Blücher. This defeat led to Napoleon's second and final exile to the remote island of Saint Helena."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_021",
+    "difficulty": "easy",
+    "question": "Which large North American animal is known for its distinctive hump and once roamed vast plains?",
+    "gold_answer": "Bison",
+    "context": [
+      {
+        "title": "North American Wildlife",
+        "text": "North America is home to various large mammals, including bears, moose, and bison. The bison is particularly iconic for its historical presence on the Great Plains."
+      },
+      {
+        "title": "American Bison",
+        "text": "The American bison (Bison bison) is a species of bison native to North America. It is characterized by its shaggy, dark brown fur, a large shoulder hump, and a massive head. Historically, vast herds of bison roamed the North American plains."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_022",
+    "difficulty": "medium",
+    "question": "What is the name of the ancient Roman road that connected Rome to Brindisi, crucial for military and trade?",
+    "gold_answer": "Appian Way",
+    "context": [
+      {
+        "title": "Roman Road Network",
+        "text": "The Roman Empire was renowned for its extensive network of roads, which were vital for military movements, trade, and communication. Many of these roads are still visible today."
+      },
+      {
+        "title": "Appian Way",
+        "text": "The Appian Way (Latin: Via Appia) was one of the earliest and strategically most important Roman roads of the ancient republic. It connected Rome to Brindisi, in southeast Italy, a major port for trade with Greece and the East. Construction began in 312 BC under the censor Appius Claudius Caecus."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_023",
+    "difficulty": "easy",
+    "question": "Which famous scientist developed the laws of motion and universal gravitation?",
+    "gold_answer": "Isaac Newton",
+    "context": [
+      {
+        "title": "Classical Mechanics",
+        "text": "Classical mechanics is a physical theory describing the motion of macroscopic objects, from projectiles to parts of machinery, and astronomical objects, such as spacecraft, planets, stars, and galaxies. It was largely founded by Isaac Newton."
+      },
+      {
+        "title": "Newton's Laws",
+        "text": "Isaac Newton was an English mathematician, physicist, astronomer, alchemist, theologian, and author. He formulated the laws of motion and universal gravitation, which laid the foundations for classical mechanics."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_024",
+    "difficulty": "hard",
+    "question": "Which ancient wonder of the world, located in Egypt, was primarily built as a tomb for Pharaoh Khufu?",
+    "gold_answer": "Great Pyramid of Giza",
+    "context": [
+      {
+        "title": "Seven Wonders of the Ancient World",
+        "text": "The Seven Wonders of the Ancient World is a list of remarkable constructions of classical antiquity. The only one that remains largely intact is the Great Pyramid of Giza."
+      },
+      {
+        "title": "Construction of the Great Pyramid",
+        "text": "The Great Pyramid of Giza is the oldest and largest of the three pyramids in the Giza pyramid complex. It was built as a tomb for the Fourth Dynasty Egyptian pharaoh Khufu over a 20-year period concluding around 2560 BC."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_025",
+    "difficulty": "medium",
+    "question": "What is the name of the sea that separates Europe from Africa and is connected to the Atlantic Ocean by the Strait of Gibraltar?",
+    "gold_answer": "Mediterranean Sea",
+    "context": [
+      {
+        "title": "Geography of Europe and Africa",
+        "text": "Europe and Africa are two continents with distinct geographies, but they are separated by a major body of water in the south of Europe."
+      },
+      {
+        "title": "Mediterranean Sea",
+        "text": "The Mediterranean Sea is a sea connected to the Atlantic Ocean, surrounded by the Mediterranean Basin and almost completely enclosed by land: on the north by Southern Europe and Anatolia, on the south by North Africa, and on the east by the Levant. Its connection to the Atlantic is through the Strait of Gibraltar."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_026",
+    "difficulty": "easy",
+    "question": "Which famous explorer is credited with the first circumnavigation of the Earth, although he died during the voyage?",
+    "gold_answer": "Ferdinand Magellan",
+    "context": [
+      {
+        "title": "Age of Exploration",
+        "text": "The Age of Exploration was a period from the early 15th to early 17th century, during which European ships traveled around the world to search for new trading routes and partners."
+      },
+      {
+        "title": "Magellan's Circumnavigation",
+        "text": "Ferdinand Magellan was a Portuguese explorer who organized the Spanish expedition to the East Indies from 1519 to 1522, resulting in the first circumnavigation of the Earth. Although Magellan himself died in the Philippines during the voyage, his expedition completed the journey."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_027",
+    "difficulty": "medium",
+    "question": "What is the name of the largest rainforest in the world, primarily located in South America?",
+    "gold_answer": "Amazon Rainforest",
+    "context": [
+      {
+        "title": "South American Geography",
+        "text": "South America is a continent of diverse landscapes, including the Andes mountains, vast grasslands, and the world's largest tropical rainforest."
+      },
+      {
+        "title": "Amazon Rainforest",
+        "text": "The Amazon rainforest, covering much of northwestern Brazil and extending into Colombia, Peru and other South American countries, is the largest tropical rainforest in the world. It is renowned for its biodiversity."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_028",
+    "difficulty": "hard",
+    "question": "Which English playwright, known for 'Romeo and Juliet', also contributed numerous words and phrases to the English language?",
+    "gold_answer": "William Shakespeare",
+    "context": [
+      {
+        "title": "Shakespeare's Plays",
+        "text": "William Shakespeare was an English playwright, poet, and actor, widely regarded as the greatest writer in the English language and the world's greatest dramatist. His works include 'Romeo and Juliet', 'Hamlet', and 'Macbeth'."
+      },
+      {
+        "title": "Shakespeare's Linguistic Impact",
+        "text": "Shakespeare's influence extends beyond his plays; he is credited with introducing thousands of words and phrases into the English language that are still in use today, enriching its vocabulary and expressive power."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_029",
+    "difficulty": "easy",
+    "question": "What is the name of the largest desert in the world, located in North Africa?",
+    "gold_answer": "Sahara Desert",
+    "context": [
+      {
+        "title": "African Geography",
+        "text": "Africa is the second-largest continent and is home to a wide range of climates and geographical features, including vast deserts."
+      },
+      {
+        "title": "Sahara Desert",
+        "text": "The Sahara is the largest hot desert in the world and the third-largest desert overall, after the polar deserts. It covers most of North Africa, spanning over 9.2 million square kilometers (3.6 million sq mi)."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_030",
+    "difficulty": "medium",
+    "question": "Which famous physicist proposed the theory of general relativity and was born in Ulm, Germany?",
+    "gold_answer": "Albert Einstein",
+    "context": [
+      {
+        "title": "Theory of Relativity",
+        "text": "The theory of general relativity, published by Albert Einstein in 1915, is a fundamental theory of gravitation in modern physics. It unifies special relativity with Newton's law of universal gravitation."
+      },
+      {
+        "title": "Einstein's Early Life",
+        "text": "Albert Einstein was born in Ulm, Kingdom of Württemberg, German Empire, on 14 March 1879. He later became a Swiss and American citizen."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_031",
+    "difficulty": "easy",
+    "question": "What is the name of the mountain range that includes Mount Everest, the world's highest peak?",
+    "gold_answer": "Himalayas",
+    "context": [
+      {
+        "title": "World's Highest Mountains",
+        "text": "Mount Everest is Earth's highest mountain above sea level, located in the Mahalangur Himal sub-range of the Himalayas."
+      },
+      {
+        "title": "Himalayan Range",
+        "text": "The Himalayas are a mountain range in Asia separating the plains of the Indian subcontinent from the Tibetan Plateau. The range includes the world's highest peaks, including Mount Everest."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_032",
+    "difficulty": "hard",
+    "question": "Which American inventor, known for the light bulb, also established the first industrial research laboratory?",
+    "gold_answer": "Thomas Edison",
+    "context": [
+      {
+        "title": "Inventions of Thomas Edison",
+        "text": "Thomas Edison was an American inventor and businessman who has been described as America's greatest inventor. He developed many devices in fields such as electric power generation, mass communication, sound recording, and motion pictures. These inventions include the phonograph, the motion picture camera, and early versions of the electric light bulb."
+      },
+      {
+        "title": "Menlo Park Laboratory",
+        "text": "Edison established his first industrial research laboratory in Menlo Park, New Jersey, in 1876. This facility was designed for the purpose of continuous innovation and is considered the prototype for modern industrial research and development laboratories."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_033",
+    "difficulty": "medium",
+    "question": "What is the name of the ancient city, famous for its gladiatorial contests, that features the Colosseum?",
+    "gold_answer": "Rome",
+    "context": [
+      {
+        "title": "Ancient Roman Entertainment",
+        "text": "Gladiatorial contests were a popular form of entertainment in ancient Rome, often held in large amphitheaters built across the empire."
+      },
+      {
+        "title": "The Colosseum",
+        "text": "The Colosseum, also known as the Flavian Amphitheatre, is an oval amphitheater in the center of the city of Rome, Italy. Built of travertine limestone, tuff, and brick-faced concrete, it was the largest amphitheater ever built and was used for gladiatorial contests and public spectacles."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_034",
+    "difficulty": "easy",
+    "question": "Which large flightless bird is native to Australia and is the second-largest bird by height?",
+    "gold_answer": "Emu",
+    "context": [
+      {
+        "title": "Australian Wildlife",
+        "text": "Australia is home to unique wildlife, including several large flightless birds. The emu is one of the most recognizable."
+      },
+      {
+        "title": "Emu Characteristics",
+        "text": "The emu (Dromaius novaehollandiae) is the second-largest living bird by height, after its ratite relative, the ostrich. It is endemic to Australia and is a large, flightless bird with long legs and a shaggy brown plumage."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_035",
+    "difficulty": "medium",
+    "question": "What is the name of the famous wall built to protect China from invasions, parts of which date back to the 7th century BC?",
+    "gold_answer": "Great Wall of China",
+    "context": [
+      {
+        "title": "Ancient Chinese Defenses",
+        "text": "Throughout its history, China constructed extensive defensive structures to protect its borders from nomadic incursions from the north."
+      },
+      {
+        "title": "Great Wall of China",
+        "text": "The Great Wall of China is a series of fortifications that were built across the historical northern borders of ancient Chinese states and Imperial China to protect against various nomadic groups from the Eurasian Steppe. Several walls were built from as early as the 7th century BC, with the most well-known sections built during the Ming Dynasty."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_036",
+    "difficulty": "hard",
+    "question": "Which Polish astronomer, who proposed the heliocentric model, also worked as a canon in Frombork Cathedral?",
+    "gold_answer": "Nicolaus Copernicus",
+    "context": [
+      {
+        "title": "Heliocentric Model",
+        "text": "The heliocentric model, which places the Sun rather than Earth at the center of the universe, was a revolutionary concept that challenged the prevailing geocentric view. It was famously proposed by Nicolaus Copernicus."
+      },
+      {
+        "title": "Copernicus's Life and Work",
+        "text": "Nicolaus Copernicus was a Renaissance-era mathematician and astronomer who formulated a model of the universe that placed the Sun rather than Earth at its center. Born in Royal Prussia, a region of the Kingdom of Poland, he also held the position of a canon at Frombork Cathedral for much of his adult life."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_037",
+    "difficulty": "easy",
+    "question": "What is the name of the largest island in the world, which is also an autonomous territory of Denmark?",
+    "gold_answer": "Greenland",
+    "context": [
+      {
+        "title": "World's Largest Islands",
+        "text": "Many large islands exist globally, with Greenland being the largest. Other significant islands include New Guinea and Borneo."
+      },
+      {
+        "title": "Greenland's Status",
+        "text": "Greenland is the world's largest island, located between the Arctic and Atlantic oceans. It is an autonomous territory within the Kingdom of Denmark, with its own government but remaining part of the Danish realm."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_038",
+    "difficulty": "medium",
+    "question": "Which famous Roman general, known for conquering Gaul, was assassinated on the Ides of March?",
+    "gold_answer": "Julius Caesar",
+    "context": [
+      {
+        "title": "Gallic Wars",
+        "text": "The Gallic Wars were a series of military campaigns waged by the Roman proconsul Julius Caesar against several Gallic tribes. Rome's victory in the Gallic Wars extended the Roman Republic's territory over all of Gaul."
+      },
+      {
+        "title": "Assassination of Caesar",
+        "text": "Julius Caesar was a Roman politician and military general who played a critical role in the events that led to the demise of the Roman Republic and the rise of the Roman Empire. He was assassinated by a group of rebellious senators on the Ides of March (March 15) in 44 BC."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_039",
+    "difficulty": "easy",
+    "question": "What is the name of the largest freshwater lake by surface area, located in North America?",
+    "gold_answer": "Lake Superior",
+    "context": [
+      {
+        "title": "Great Lakes of North America",
+        "text": "The Great Lakes are a series of interconnected freshwater lakes primarily in the upper mid-east region of North America, on the Canada–United States border. They include Lake Superior, Lake Huron, Lake Michigan, Lake Erie, and Lake Ontario."
+      },
+      {
+        "title": "Lake Superior Facts",
+        "text": "Lake Superior is the largest of the Great Lakes of North America, and among all freshwater lakes in the world, it is the largest by surface area and the third-largest by volume."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_040",
+    "difficulty": "hard",
+    "question": "Which English naturalist, who proposed the theory of evolution by natural selection, also wrote 'On the Origin of Species'?",
+    "gold_answer": "Charles Darwin",
+    "context": [
+      {
+        "title": "Theory of Evolution",
+        "text": "The theory of evolution by natural selection is a cornerstone of modern biology, explaining how species adapt and change over time. It was famously articulated by Charles Darwin."
+      },
+      {
+        "title": "On the Origin of Species",
+        "text": "Charles Darwin was an English naturalist, geologist, and biologist, best known for his contributions to the science of evolution. His seminal work, 'On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life', published in 1859, introduced his theory of evolution."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_041",
+    "difficulty": "medium",
+    "question": "What is the name of the ancient trade route that connected the East and West, facilitating the exchange of goods and culture?",
+    "gold_answer": "Silk Road",
+    "context": [
+      {
+        "title": "Ancient Trade Networks",
+        "text": "Throughout history, various routes facilitated trade between distant regions, leading to significant cultural and economic exchange."
+      },
+      {
+        "title": "The Silk Road",
+        "text": "The Silk Road was a network of ancient trade routes that connected China and the Far East with the Middle East and Europe. It was central to cultural interaction through regions of the Asian continent from the second century BCE to the mid-15th century, facilitating the exchange of goods like silk, spices, and technologies."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_042",
+    "difficulty": "easy",
+    "question": "Which famous painting by Leonardo da Vinci depicts a woman with an enigmatic smile?",
+    "gold_answer": "Mona Lisa",
+    "context": [
+      {
+        "title": "Leonardo da Vinci's Art",
+        "text": "Leonardo da Vinci was a prolific artist of the Italian Renaissance, known for works like 'The Last Supper' and the 'Mona Lisa'."
+      },
+      {
+        "title": "Mona Lisa Description",
+        "text": "The Mona Lisa is a half-length portrait painting by Italian artist Leonardo da Vinci. It is considered an archetypal masterpiece of the Italian Renaissance, known for the subject's enigmatic expression, which is frequently described as serene, yet 'unsettling'."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_043",
+    "difficulty": "medium",
+    "question": "What is the name of the largest active volcano in Europe, located in Sicily, Italy?",
+    "gold_answer": "Mount Etna",
+    "context": [
+      {
+        "title": "Volcanoes of Europe",
+        "text": "Europe has several active volcanoes, particularly in Italy and Iceland. These geological features are a result of tectonic plate activity."
+      },
+      {
+        "title": "Mount Etna",
+        "text": "Mount Etna is an active stratovolcano on the east coast of Sicily, Italy, in the Metropolitan City of Catania. It is the highest active volcano in Europe outside the Caucasus and the highest peak in Italy south of the Alps."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_044",
+    "difficulty": "hard",
+    "question": "Which American civil rights leader, known for his 'I Have a Dream' speech, was assassinated in Memphis, Tennessee?",
+    "gold_answer": "Martin Luther King Jr.",
+    "context": [
+      {
+        "title": "Civil Rights Movement",
+        "text": "The American Civil Rights Movement was a struggle for social justice that took place from the 1950s to the 1960s for Black Americans to gain equal rights under the law in the United States. Martin Luther King Jr. was a prominent leader of this movement."
+      },
+      {
+        "title": "MLK's Assassination",
+        "text": "Martin Luther King Jr. was an American Baptist minister and activist who became the most visible spokesperson and leader in the Civil Rights Movement. He delivered his iconic 'I Have a Dream' speech in 1963. He was assassinated on April 4, 1968, in Memphis, Tennessee."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_045",
+    "difficulty": "easy",
+    "question": "What is the name of the largest moon of Earth, which causes ocean tides?",
+    "gold_answer": "The Moon",
+    "context": [
+      {
+        "title": "Earth's Natural Satellite",
+        "text": "Earth has one large natural satellite that orbits it, commonly referred to as 'the Moon'."
+      },
+      {
+        "title": "Lunar Influence on Tides",
+        "text": "The Moon is Earth's only natural satellite and the fifth-largest moon in the Solar System. Its gravitational pull is the primary cause of ocean tides on Earth."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_046",
+    "difficulty": "medium",
+    "question": "Which ancient civilization, located in present-day Iraq, is credited with inventing writing and the wheel?",
+    "gold_answer": "Sumerians",
+    "context": [
+      {
+        "title": "Cradle of Civilization",
+        "text": "Mesopotamia, located in the fertile crescent of present-day Iraq, is often referred to as the 'Cradle of Civilization' due to the many innovations that originated there."
+      },
+      {
+        "title": "Sumerian Innovations",
+        "text": "The Sumerians were the earliest known civilization in the historical region of southern Mesopotamia (modern-day Iraq). They are credited with many inventions, including the first writing system (cuneiform), the wheel, irrigation, and early forms of mathematics and astronomy."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_047",
+    "difficulty": "easy",
+    "question": "Which element is the most abundant in Earth's atmosphere and is crucial for life?",
+    "gold_answer": "Nitrogen",
+    "context": [
+      {
+        "title": "Earth's Atmosphere Composition",
+        "text": "Earth's atmosphere is a layer of gases surrounding the planet. It is composed of several elements and compounds."
+      },
+      {
+        "title": "Atmospheric Gases",
+        "text": "Nitrogen makes up about 78% of Earth's atmosphere, making it the most abundant element. Oxygen is the second most abundant, at around 21%. Nitrogen is a vital component of proteins and nucleic acids, essential for all known life forms."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_048",
+    "difficulty": "hard",
+    "question": "Which German composer, known for his nine symphonies, continued to compose even after losing his hearing?",
+    "gold_answer": "Ludwig van Beethoven",
+    "context": [
+      {
+        "title": "Classical Composers",
+        "text": "Many great composers emerged during the Classical and Romantic periods, including Mozart, Bach, and Beethoven. Beethoven is particularly known for his powerful symphonies."
+      },
+      {
+        "title": "Beethoven's Deafness",
+        "text": "Ludwig van Beethoven was a German composer and pianist. A crucial figure in the transition between the Classical and Romantic eras in Western art music, he remains one of the most recognized and influential of all composers. He began to lose his hearing in his late 20s and was almost completely deaf by the last decade of his life, yet he continued to compose, producing some of his most celebrated works, including his Ninth Symphony, during this period."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_049",
+    "difficulty": "medium",
+    "question": "What is the name of the ancient city, once the capital of the Inca Empire, located high in the Andes Mountains?",
+    "gold_answer": "Cusco",
+    "context": [
+      {
+        "title": "Inca Empire",
+        "text": "The Inca Empire was the largest empire in pre-Columbian America. Its administrative, political, and military center was located in a major city in present-day Peru."
+      },
+      {
+        "title": "Cusco, Inca Capital",
+        "text": "Cusco (also spelled Cuzco) is a city in southeastern Peru, near the Urubamba Valley of the Andes mountain range. It was the capital of the Inca Empire from the 13th to 16th centuries until the Spanish conquest. It is a UNESCO World Heritage Site and a major tourist destination."
+      }
+    ]
+  },
+  {
+    "qid": "gemini_050",
+    "difficulty": "easy",
+    "question": "Which famous landmark, a symbol of American freedom, was a gift from France?",
+    "gold_answer": "Statue of Liberty",
+    "context": [
+      {
+        "title": "American Symbols",
+        "text": "The United States has many national symbols, including the bald eagle and the Statue of Liberty, which represent freedom and democracy."
+      },
+      {
+        "title": "Statue of Liberty's Origin",
+        "text": "The Statue of Liberty is a colossal neoclassical sculpture on Liberty Island in New York Harbor in New York City. The copper statue, a gift from the people of France to the people of the United States, was designed by French sculptor Frédéric Auguste Bartholdi."
+      }
+    ]
+  }
+]

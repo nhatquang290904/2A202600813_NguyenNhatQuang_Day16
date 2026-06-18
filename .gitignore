@@ -6,6 +6,7 @@ venv/
 ENV/
 env/
 .env
+.vscode/
 .pytest_cache/
 outputs/
 .DS_Store
